@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-03T17:53:00.170Z",
+  "fetched": "2026-10-03T20:23:41.646Z",
   "items": [
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -15,6 +15,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "published": "2026-10-03T17:48:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
       "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
       "published": "2026-10-03T10:27:57.000Z",
@@ -27,16 +33,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
-      "summary": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-      "published": "2026-10-03T12:51:08.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-      "published": "2026-10-03T17:48:42.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
+      "title": "Man shot dead as families gather for memorial in London",
+      "summary": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+      "published": "2026-10-03T17:06:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Spoiler alert! Is social media ruining big gig surprises?",
