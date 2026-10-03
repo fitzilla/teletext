@@ -1,0 +1,289 @@
+:root {
+  --room: #0b0c0f;
+  --glow: rgb(0 0 60);
+  --plastic-hi: #34343a;
+  --plastic: #222226;
+  --plastic-lo: #151517;
+  --key: #3b3c42;
+  --key-text: #e4e4e8;
+  --label: #9a9aa3;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; min-height: 100%; }
+
+body {
+  background:
+    radial-gradient(ellipse 70% 55% at 42% 42%, color-mix(in srgb, var(--glow) 22%, transparent), transparent 70%),
+    var(--room);
+  color: var(--label);
+  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  transition: background-color 0.6s;
+}
+
+body.tv-off { --glow: rgb(0 0 0); }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip-path: inset(50%); white-space: pre-wrap;
+}
+
+.room {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 28px;
+  padding: 32px 16px;
+}
+
+.set {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(24px, 4vw, 56px);
+  width: 100%;
+}
+
+/* --- The television ----------------------------------------------------- */
+
+.tv {
+  flex: 0 1 860px;
+  min-width: 0;
+  padding: 3.2% 3.2% 0;
+  border-radius: 26px 26px 22px 22px;
+  background: linear-gradient(170deg, var(--plastic-hi), var(--plastic) 40%, var(--plastic-lo));
+  box-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 0.08),
+    inset 0 -3px 6px rgb(0 0 0 / 0.5),
+    0 30px 60px -20px rgb(0 0 0 / 0.9),
+    0 0 120px -30px color-mix(in srgb, var(--glow) 50%, transparent);
+}
+
+.tv-bezel {
+  padding: 3.4%;
+  border-radius: 20px;
+  background: linear-gradient(160deg, #19191c, #0c0c0e);
+  box-shadow: inset 0 2px 10px rgb(0 0 0 / 0.9), 0 1px 0 rgb(255 255 255 / 0.05);
+}
+
+.tv-screen {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: 5% / 6.5%;
+  background: #070807;
+  box-shadow: 0 0 0 2px #050505, 0 0 18px rgb(0 0 0 / 0.8);
+}
+
+.tv-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.tv-panel {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 6px 16px;
+}
+
+.tv-brand {
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.32em;
+  background: linear-gradient(#e8e8ec, #8c8c94);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.tv-model {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #6c6c74;
+}
+
+.tv-grille {
+  flex: 1;
+  height: 12px;
+  background: repeating-linear-gradient(90deg, #0d0d0f 0 2px, transparent 2px 5px);
+  opacity: 0.8;
+  border-radius: 2px;
+}
+
+.tv-led {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #6a1010;
+  box-shadow: 0 0 6px #ff2a2a;
+}
+.tv-led.on { background: #34ff6a; box-shadow: 0 0 8px #34ff6a; }
+
+/* --- The remote control ------------------------------------------------- */
+
+.remote {
+  flex: 0 0 auto;
+  width: 172px;
+  padding: 18px 16px 22px;
+  border-radius: 42px 42px 30px 30px / 34px 34px 30px 30px;
+  background: linear-gradient(100deg, var(--plastic-hi), var(--plastic) 45%, var(--plastic-lo));
+  box-shadow:
+    inset 0 1px 0 rgb(255 255 255 / 0.08),
+    inset -2px 0 6px rgb(0 0 0 / 0.5),
+    0 24px 40px -16px rgb(0 0 0 / 0.9);
+  transform: rotate(2deg);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.remote-top { display: flex; align-items: center; justify-content: space-between; }
+
+.remote-ir {
+  width: 34px;
+  height: 10px;
+  border-radius: 6px;
+  background: linear-gradient(#3a0d12, #160407);
+  box-shadow: inset 0 1px 2px rgb(0 0 0 / 0.8);
+}
+
+.remote-body { display: flex; flex-direction: column; gap: 14px; }
+
+.keypad,
+.paging,
+.teletext-keys {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.functions { display: flex; flex-direction: column; gap: 12px; }
+
+.fastext { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+
+.key {
+  appearance: none;
+  border: 0;
+  cursor: pointer;
+  font: 600 15px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--key-text);
+  height: 34px;
+  border-radius: 12px;
+  background: radial-gradient(ellipse at 50% 25%, #55565d, var(--key) 60%, #2a2a2f);
+  box-shadow: 0 2px 0 #0b0b0d, 0 3px 5px rgb(0 0 0 / 0.5), inset 0 1px 0 rgb(255 255 255 / 0.12);
+  transition: transform 60ms, box-shadow 60ms, filter 60ms;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.key:active,
+.key.pressed {
+  transform: translateY(2px);
+  box-shadow: 0 0 0 #0b0b0d, 0 1px 2px rgb(0 0 0 / 0.5), inset 0 1px 0 rgb(255 255 255 / 0.08);
+  filter: brightness(0.9);
+}
+
+.key:focus-visible { outline: 2px solid #ffd400; outline-offset: 2px; }
+
+.key-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  height: 38px;
+}
+
+.key-icon svg {
+  width: 18px;
+  height: 14px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.key-icon svg .fill { fill: currentColor; stroke: none; opacity: 0.6; }
+
+.key-icon span { font-size: 8px; letter-spacing: 0.08em; color: var(--label); }
+
+.key-power {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 30%, #e0473f, #a3201b 65%, #6d1310);
+  display: grid;
+  place-items: center;
+}
+.key-power svg { width: 15px; height: 15px; fill: none; stroke: #fff; stroke-width: 1.8; stroke-linecap: round; }
+
+.key-colour { height: 18px; border-radius: 9px; }
+.key-colour.red { background: radial-gradient(ellipse at 50% 25%, #ff6a5e, #d81e14 65%); }
+.key-colour.green { background: radial-gradient(ellipse at 50% 25%, #6be86b, #1a9e24 65%); }
+.key-colour.yellow { background: radial-gradient(ellipse at 50% 25%, #fff27a, #e0c400 65%); }
+.key-colour.cyan { background: radial-gradient(ellipse at 50% 25%, #8af4ff, #13b4c8 65%); }
+
+.remote-brand {
+  text-align: center;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  color: #6c6c74;
+}
+
+/* --- Notes under the set ------------------------------------------------ */
+
+.notes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px 24px;
+  max-width: 860px;
+  text-align: center;
+}
+.notes p { margin: 0; }
+
+kbd {
+  font: 600 12px ui-monospace, Menlo, monospace;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: #24252b;
+  color: #ffe94a;
+}
+
+.crt-toggle { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+.crt-toggle input { accent-color: #ffd400; }
+
+/* --- Smaller screens: remote lies flat under the telly ------------------- */
+
+@media (max-width: 860px) {
+  .room { justify-content: flex-start; gap: 20px; padding-top: 16px; }
+  .set { flex-direction: column; gap: 20px; }
+  .tv { flex-basis: auto; width: 100%; border-radius: 18px; }
+  .tv-bezel { border-radius: 14px; }
+  .tv-model { display: none; }
+  .remote {
+    width: 100%;
+    max-width: 440px;
+    transform: none;
+    border-radius: 28px;
+    padding: 14px;
+  }
+  .remote-body { flex-direction: row; gap: 14px; }
+  .keypad { flex: 1.1; }
+  .functions { flex: 1; justify-content: space-between; }
+  .key { height: 40px; }
+  .key-colour { height: 26px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .key, body { transition: none; }
+}
