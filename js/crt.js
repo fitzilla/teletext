@@ -93,7 +93,7 @@ varying vec2 v_uv;
 
 vec2 curve(vec2 uv) {
   uv = uv * 2.0 - 1.0;
-  uv *= 0.985;
+  uv *= 0.93; // overscan: crop the edges of the picture, as tellies did
   uv.x *= 1.0 + pow(abs(uv.y) / 6.0, 2.0);
   uv.y *= 1.0 + pow(abs(uv.x) / 5.0, 2.0);
   return uv * 0.5 + 0.5;

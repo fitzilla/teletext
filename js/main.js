@@ -16,9 +16,9 @@ pageCanvas.height = HEIGHT;
 const pageCtx = pageCanvas.getContext('2d');
 const pageImage = pageCtx.createImageData(WIDTH, HEIGHT);
 
-const led = document.getElementById('led');
 const pageText = document.getElementById('page-text');
-const crtToggle = document.getElementById('crt-toggle');
+const keypad = document.getElementById('keypad');
+const keypadToggle = document.getElementById('keypad-toggle');
 
 // --- power ---------------------------------------------------------------
 
@@ -31,8 +31,6 @@ function setPower(next) {
   powerFrom = crt.power;
   powerTo = on ? 1 : 0;
   powerStart = performance.now();
-  led.classList.toggle('on', on);
-  document.body.classList.toggle('tv-off', !on);
 }
 
 function updatePower(t) {
@@ -68,24 +66,9 @@ function frame(t) {
   requestAnimationFrame(frame);
 }
 
-// The room picks up the colour of the screen.
-const glowCanvas = document.createElement('canvas');
-glowCanvas.width = 8;
-glowCanvas.height = 6;
-const glowCtx = glowCanvas.getContext('2d', { willReadFrequently: true });
-function updateGlow() {
-  glowCtx.drawImage(video.canvas, 0, 0, 8, 6);
-  const d = glowCtx.getImageData(0, 0, 8, 6).data;
-  let r = 0, g = 0, b = 0;
-  for (let i = 0; i < d.length; i += 4) { r += d[i]; g += d[i + 1]; b += d[i + 2]; }
-  const n = d.length / 4;
-  document.body.style.setProperty('--glow', `rgb(${r / n | 0} ${g / n | 0} ${b / n | 0})`);
-}
-
 receiver.on((type) => {
   if (type === 'search') pageText.textContent = receiver.description;
   if (type === 'printed' || type === 'state') {
-    setTimeout(updateGlow, 50);
     pageText.textContent = receiver.mode === 'tv'
       ? 'TV picture'
       : `${receiver.description}.\n${toText(decode(receiver.screen), { reveal: receiver.reveal })}`;
@@ -96,6 +79,7 @@ receiver.on((type) => {
 
 function press(key) {
   if (key === 'power') return setPower(!on);
+  if (key === 'crt') return crt.setEnabled(!crt.enabled);
   if (!on) return;
   receiver.press(key);
 }
@@ -107,7 +91,7 @@ document.querySelectorAll('[data-key]').forEach((button) => {
 const KEYS = {
   r: 'red', g: 'green', y: 'yellow', c: 'cyan', b: 'cyan',
   F1: 'red', F2: 'green', F3: 'yellow', F4: 'cyan',
-  i: 'index', h: 'hold', v: 'reveal', '?': 'reveal', s: 'size', t: 'text', m: 'mix', p: 'power',
+  i: 'index', h: 'hold', v: 'reveal', '?': 'reveal', s: 'size', t: 'text', m: 'mix', p: 'power', x: 'crt',
   ArrowUp: 'up', PageUp: 'up', '+': 'up', ArrowDown: 'down', PageDown: 'down', '-': 'down',
   ArrowLeft: 'left', ArrowRight: 'right',
 };
@@ -122,8 +106,20 @@ window.addEventListener('keydown', (e) => {
   setTimeout(() => button?.classList.remove('pressed'), 120);
 });
 
-if (!crt.webgl) crtToggle.closest('label').hidden = true;
-crtToggle.addEventListener('change', () => crt.setEnabled(crtToggle.checked));
+keypadToggle.addEventListener('click', () => {
+  keypad.hidden = !keypad.hidden;
+  keypadToggle.setAttribute('aria-expanded', String(!keypad.hidden));
+});
+
+// The buttons and pointer fade away when you're just watching.
+let idleTimer;
+function wake() {
+  document.body.classList.remove('idle');
+  clearTimeout(idleTimer);
+  idleTimer = setTimeout(() => document.body.classList.add('idle'), 3000);
+}
+['pointermove', 'pointerdown', 'keydown'].forEach((type) => window.addEventListener(type, wake, { passive: true }));
+wake();
 
 // --- go ------------------------------------------------------------------
 

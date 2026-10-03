@@ -1,6 +1,6 @@
 # aaronfitzsimmons.com
 
-**FITZFAX**: a 90s-style teletext service, shown on a CRT telly with a remote.
+**FITZFAX**: a 90s-style teletext service on a full-screen CRT. Type page numbers on the keyboard, use the arrow keys to browse, and press the floating colour buttons for Fastext links. Touch screens also get a number pad.
 
 It's a static site with no build step. To run it locally, serve the folder (for example `npx http-server .`) and open it in a browser. ES modules don't load from `file://`.
 

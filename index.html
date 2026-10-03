@@ -2,110 +2,38 @@
 <html lang="en-GB">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>FITZFAX · Aaron Fitzsimmons</title>
   <meta name="description" content="FITZFAX: a live 90s-style teletext service from Aaron Fitzsimmons.">
-  <meta name="theme-color" content="#0b0c0f">
+  <meta name="theme-color" content="#000000">
   <link rel="stylesheet" href="css/fitzfax.css">
   <script type="module" src="js/main.js"></script>
 </head>
 <body>
-  <main class="room">
+  <main class="stage">
     <h1 class="sr-only">FITZFAX, the Aaron Fitzsimmons teletext service</h1>
+    <p class="sr-only">Type a three-digit page number. Up and down arrows change page, left and right arrows change subpage.</p>
 
-    <div class="set">
-      <section class="tv" aria-label="Television">
-        <div class="tv-bezel">
-          <div class="tv-screen">
-            <canvas id="screen" class="tv-canvas" aria-hidden="true"></canvas>
-          </div>
-        </div>
-        <div class="tv-panel">
-          <span class="tv-brand">FITZVISION</span>
-          <span class="tv-model">Colour Television · Fastext</span>
-          <span class="tv-grille" aria-hidden="true"></span>
-          <span class="tv-led" id="led" aria-hidden="true"></span>
-        </div>
-      </section>
-
-      <nav class="remote" aria-label="Remote control">
-        <div class="remote-top">
-          <span class="remote-ir" aria-hidden="true"></span>
-          <button class="key key-power" data-key="power" aria-label="Power">
-            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1.5v6M4.4 4a5.2 5.2 0 1 0 7.2 0" /></svg>
-          </button>
-        </div>
-
-        <div class="remote-body">
-          <div class="keypad">
-            <button class="key" data-key="1">1</button>
-            <button class="key" data-key="2">2</button>
-            <button class="key" data-key="3">3</button>
-            <button class="key" data-key="4">4</button>
-            <button class="key" data-key="5">5</button>
-            <button class="key" data-key="6">6</button>
-            <button class="key" data-key="7">7</button>
-            <button class="key" data-key="8">8</button>
-            <button class="key" data-key="9">9</button>
-            <button class="key key-icon" data-key="text" aria-label="Text: teletext or TV">
-              <svg viewBox="0 0 18 14" aria-hidden="true"><rect x="1" y="1" width="16" height="12" rx="1" /><path d="M4 4.5h10M4 7h10M4 9.5h7" /></svg>
-              <span>TEXT</span>
-            </button>
-            <button class="key" data-key="0">0</button>
-            <button class="key key-icon" data-key="mix" aria-label="Mix: text over TV">
-              <svg viewBox="0 0 18 14" aria-hidden="true"><rect x="1" y="1" width="16" height="12" rx="1" /><path class="fill" d="M1.5 1.5h7.5v11H1.5z" /><path d="M11 4.5h4M11 7h4M11 9.5h3" /></svg>
-              <span>MIX</span>
-            </button>
-          </div>
-
-          <div class="functions">
-            <div class="paging">
-              <button class="key key-icon" data-key="down" aria-label="Previous page">
-                <svg viewBox="0 0 18 14" aria-hidden="true"><path d="M4 4l5 6 5-6" /></svg>
-                <span>P−</span>
-              </button>
-              <button class="key key-icon" data-key="index" aria-label="Index, page 100">
-                <svg viewBox="0 0 18 14" aria-hidden="true"><rect x="1" y="1" width="16" height="12" rx="1" /><path d="M9 6v5M9 3.6v.2" /></svg>
-                <span>INDEX</span>
-              </button>
-              <button class="key key-icon" data-key="up" aria-label="Next page">
-                <svg viewBox="0 0 18 14" aria-hidden="true"><path d="M4 10l5-6 5 6" /></svg>
-                <span>P+</span>
-              </button>
-            </div>
-
-            <div class="fastext" role="group" aria-label="Fastext links">
-              <button class="key key-colour red" data-key="red" aria-label="Red link"></button>
-              <button class="key key-colour green" data-key="green" aria-label="Green link"></button>
-              <button class="key key-colour yellow" data-key="yellow" aria-label="Yellow link"></button>
-              <button class="key key-colour cyan" data-key="cyan" aria-label="Cyan link"></button>
-            </div>
-
-            <div class="teletext-keys">
-              <button class="key key-icon" data-key="hold" aria-label="Hold page">
-                <svg viewBox="0 0 18 14" aria-hidden="true"><rect x="1" y="1" width="16" height="12" rx="1" /><path d="M7 4v6M11 4v6" /></svg>
-                <span>HOLD</span>
-              </button>
-              <button class="key key-icon" data-key="reveal" aria-label="Reveal hidden text">
-                <svg viewBox="0 0 18 14" aria-hidden="true"><rect x="1" y="1" width="16" height="12" rx="1" /><path d="M6.8 5.2a2.2 2.2 0 1 1 3 2.1c-.6.3-.8.7-.8 1.3M9 10.6v.2" /></svg>
-                <span>REVEAL</span>
-              </button>
-              <button class="key key-icon" data-key="size" aria-label="Double size">
-                <svg viewBox="0 0 18 14" aria-hidden="true"><rect x="1" y="1" width="16" height="12" rx="1" /><path d="M9 3.5v7M6.5 5.5 9 3.5l2.5 2M6.5 8.5 9 10.5l2.5-2" /></svg>
-                <span>SIZE</span>
-              </button>
-            </div>
-          </div>
-        </div>
-
-        <span class="remote-brand" aria-hidden="true">FITZVISION</span>
-      </nav>
+    <div class="screen">
+      <canvas id="screen" class="screen-canvas" aria-hidden="true"></canvas>
     </div>
 
-    <footer class="notes">
-      <p>Type a page number on the remote or your keyboard. Try <kbd>101</kbd> for the news, <kbd>340</kbd> for Newcastle United, or <kbd>105</kbd> for help.</p>
-      <label class="crt-toggle"><input type="checkbox" id="crt-toggle" checked> CRT effect</label>
-    </footer>
+    <nav class="buttons" aria-label="Fastext links">
+      <button class="fastext red" data-key="red" aria-label="Red link"></button>
+      <button class="fastext green" data-key="green" aria-label="Green link"></button>
+      <button class="fastext yellow" data-key="yellow" aria-label="Yellow link"></button>
+      <button class="fastext blue" data-key="cyan" aria-label="Blue link"></button>
+      <button class="keypad-toggle" id="keypad-toggle" aria-expanded="false" aria-controls="keypad" aria-label="Number pad">123</button>
+    </nav>
+
+    <!-- Only shown on touch screens, which have no keyboard to type with. -->
+    <div class="keypad" id="keypad" hidden>
+      <button data-key="1">1</button><button data-key="2">2</button><button data-key="3">3</button>
+      <button data-key="4">4</button><button data-key="5">5</button><button data-key="6">6</button>
+      <button data-key="7">7</button><button data-key="8">8</button><button data-key="9">9</button>
+      <button data-key="down" aria-label="Previous page">P−</button><button data-key="0">0</button><button data-key="up" aria-label="Next page">P+</button>
+      <button data-key="left" aria-label="Previous subpage">◀</button><button data-key="reveal">?</button><button data-key="right" aria-label="Next subpage">▶</button>
+    </div>
 
     <div id="page-text" class="sr-only" aria-live="polite"></div>
   </main>

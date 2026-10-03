@@ -29,7 +29,7 @@ const index = {
     `{yellow}  LIVE {white}News, NUFC and weather pages`,
     `{white}  update through the day.`,
     '',
-    `{gred}{newbg}{yellow}${centre('TYPE A PAGE NUMBER ON YOUR REMOTE', 37)}`,
+    `{gred}{newbg}{yellow}${centre('TYPE A PAGE NUMBER - 105 FOR HELP', 37)}`,
   ]],
 };
 
@@ -39,28 +39,28 @@ const help = {
     ...banner('blue', 'yellow', 'HOW TO USE FITZFAX'),
     '',
     '{white}Every page has a three-digit number.',
-    '{white}Type it and wait for the counter at the',
-    '{white}top to roll round to it.',
+    '{white}Type it on your keyboard and wait for',
+    '{white}the counter at the top to roll round.',
     '',
     ...[
-      ['0-9', 'Page number', '0-9'],
-      ['P+ P-', 'Next/previous page', 'Up Down'],
-      ['Colours', 'Links on bottom row', 'R G Y C'],
-      ['INDEX', 'Back to page 100', 'I'],
-      ['HOLD', 'Stop pages turning', 'H'],
-      ['REVEAL', 'Show hidden answers', 'V'],
-      ['SIZE', 'Double size', 'S'],
-      ['TEXT', 'Teletext or telly', 'T'],
-      ['MIX', 'Text over telly', 'M'],
-    ].map(([key, what, kb]) => `{yellow}${padEnd(key, 8)}{white}${padEnd(what, 20)}{cyan}${kb}`),
+      ['0-9', 'Type a page number'],
+      ['Up Down', 'Next or previous page'],
+      ['Left Right', 'Turn subpages'],
+      ['R G Y B', 'Coloured links at bottom'],
+      ['I', 'Index, page 100'],
+      ['H', 'Hold: stop pages turning'],
+      ['V', 'Reveal hidden answers'],
+      ['S', 'Double size'],
+      ['T', 'Teletext or telly'],
+      ['M', 'Mix text over telly'],
+      ['X', 'CRT effect on or off'],
+    ].map(([key, what]) => `{yellow}${padEnd(key, 11)}{white}${what}`),
     '',
-    '{green}Cyan column: keys on your keyboard.',
-    '{green}Left and Right step through subpages.',
+    '{cyan}Or use the coloured buttons beside',
+    '{cyan}the screen.',
   ]],
 };
 
-// Subtitle pages are see-through apart from the boxed text, and are shown
-// over the TV picture.
 const SUBS = [
   ['# CHEERFUL 90s TELETEXT MUSIC #', 'yellow'],
   ["You're watching FITZ TV.", 'white'],
