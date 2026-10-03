@@ -1,6 +1,7 @@
 import { decode, paint, toText, WIDTH, HEIGHT } from './teletext.js';
 import { VideoFrame, CRT } from './crt.js';
 import { Receiver } from './receiver.js';
+import { drawButtons } from './buttons.js';
 import staticPages from './pages/static.js';
 import weatherPages from './pages/weather.js';
 import newsPages from './pages/news.js';
@@ -15,6 +16,8 @@ pageCanvas.width = WIDTH;
 pageCanvas.height = HEIGHT;
 const pageCtx = pageCanvas.getContext('2d');
 const pageImage = pageCtx.createImageData(WIDTH, HEIGHT);
+
+drawButtons();
 
 const pageText = document.getElementById('page-text');
 const keypad = document.getElementById('keypad');

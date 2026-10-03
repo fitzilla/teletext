@@ -75,6 +75,12 @@ for (let c = 0x20; c < 0x80; c++) {
   }
 }
 
+// The bitmap for one character cell (CELL_W x CELL_H, 1 = lit), for drawing
+// teletext-style graphics outside the page.
+export function glyph(ch, { mosaic = false, sep = false } = {}) {
+  return mosaic && (ch & 0x20) ? MOSAIC[sep ? 1 : 0][ch] : ALPHA[ch - 0x20];
+}
+
 function blankCell(bg) {
   return { ch: SPACE, mosaic: false, sep: false, fg: 7, bg, flash: false, conceal: false, boxed: false, dh: 0 };
 }
