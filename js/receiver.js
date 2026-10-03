@@ -189,7 +189,7 @@ export class Receiver {
     }
     rows.push(this.#fastextRow(page));
 
-    history.replaceState(null, '', `#${page.number}`);
+    try { history.replaceState(null, '', `#${page.number}`); } catch { /* sandboxed frames may refuse */ }
     this.#print(rows);
     this.#drawHeader();
     this.#scheduleRotation();
