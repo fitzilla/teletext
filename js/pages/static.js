@@ -45,7 +45,7 @@ const help = {
     ...[
       ['0-9', 'Type a page number'],
       ['Up Down', 'Next or previous page'],
-      ['Left Right', 'Turn subpages'],
+      ['Left Right', 'Next story (or click)'],
       ['R G Y B', 'Coloured links at bottom'],
       ['I', 'Index, page 100'],
       ['H', 'Hold: stop pages turning'],

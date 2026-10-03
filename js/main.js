@@ -109,6 +109,12 @@ window.addEventListener('keydown', (e) => {
   setTimeout(() => button?.classList.remove('pressed'), 120);
 });
 
+// Clicking or tapping the picture turns the subpage: the left third goes
+// back, anywhere else goes forward.
+document.querySelector('.screen').addEventListener('click', (e) => {
+  press(e.clientX < window.innerWidth / 3 ? 'left' : 'right');
+});
+
 keypadToggle.addEventListener('click', () => {
   keypad.hidden = !keypad.hidden;
   keypadToggle.setAttribute('aria-expanded', String(!keypad.hidden));

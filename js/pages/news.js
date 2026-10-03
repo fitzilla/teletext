@@ -39,7 +39,7 @@ function newsPage({ number, file, banner, source, fastext }) {
         lines.forEach((l, j) => list.push(`{${i % 2 ? 'cyan' : 'white'}}${j ? '  ' : `${i + 1} `}${l}`));
       });
       list.length = Math.max(list.length, 21);
-      list.push('{yellow}Stories follow on the next pages', footer);
+      list.push('{yellow}Press → or click for each story', footer);
 
       const stories = items.map((it) => {
         const rows = [...banner, ''];
@@ -48,7 +48,7 @@ function newsPage({ number, file, banner, source, fastext }) {
         for (const line of wrap(it.summary, 39).slice(0, 23 - rows.length - 4)) rows.push(`{white}${line}`);
         rows.push('', `{cyan}${when(it.published)}`);
         rows.length = Math.max(rows.length, 22);
-        rows.push(footer);
+        rows.push(`${footer}  {yellow}→ next story`);
         return rows;
       });
       return [list.map((r) => r ?? ''), ...stories.map((s) => s.map((r) => r ?? ''))];

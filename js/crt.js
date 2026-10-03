@@ -89,6 +89,7 @@ uniform vec2 u_src;
 uniform float u_time;
 uniform float u_power;
 uniform float u_motion;
+uniform vec4 u_rect; // where the 4:3 picture sits in the window (x, y, w, h)
 varying vec2 v_uv;
 
 vec2 curve(vec2 uv) {
@@ -102,7 +103,10 @@ vec2 curve(vec2 uv) {
 vec3 tap(vec2 uv) { return texture2D(u_tex, uv).rgb; }
 
 void main() {
-  vec2 uv = curve(v_uv);
+  // The canvas fills the window; the picture sits in u_rect and its edges
+  // fade into the black around it, so there's no visible seam.
+  vec2 p = (v_uv - u_rect.xy) / u_rect.zw;
+  vec2 uv = curve(p);
 
   // Switch-on: the picture opens out from a bright line.
   float open = smoothstep(0.08, 0.7, u_power);
@@ -110,7 +114,7 @@ void main() {
   uv.y = 0.5 + (uv.y - 0.5) / max(open, 0.004);
   uv.x = 0.5 + (uv.x - 0.5) / max(wide, 0.004);
 
-  vec2 edge = smoothstep(0.0, 0.006, uv) * smoothstep(0.0, 0.006, 1.0 - uv);
+  vec2 edge = smoothstep(0.0, 0.03, uv) * smoothstep(0.0, 0.03, 1.0 - uv);
   float inside = edge.x * edge.y;
 
   vec2 px = 1.0 / u_src;
@@ -131,7 +135,7 @@ void main() {
 
   // Scanlines: one PAL field is 288 lines. Bright lines spread wider.
   float lines = u_src.y * 0.5;
-  float density = clamp((u_res.y / lines - 1.2) / 1.6, 0.0, 1.0);
+  float density = clamp((u_res.y * u_rect.w / lines - 1.2) / 1.6, 0.0, 1.0);
   float f = fract(uv.y * lines) - 0.5;
   float lum = dot(col, vec3(0.3, 0.59, 0.11));
   float w = mix(0.22, 0.42, clamp(lum, 0.0, 1.0));
@@ -146,18 +150,19 @@ void main() {
   // Mains hum and flicker.
   col *= 1.0 - u_motion * (0.018 * (0.5 + 0.5 * sin(uv.y * 3.0 - u_time * 1.4)) + 0.008 * sin(u_time * 157.0));
 
-  // Vignette and the slightly grey black of a switched-on tube.
-  float vig = uv.x * uv.y * (1.0 - uv.x) * (1.0 - uv.y);
-  col *= pow(clamp(16.0 * vig, 0.0, 1.0), 0.18);
+  // The slightly grey black of a switched-on tube, then a vignette that
+  // takes everything down to true black at the edges.
   col += vec3(0.018, 0.022, 0.02) * u_power;
+  float vig = clamp(uv.x * uv.y * (1.0 - uv.x) * (1.0 - uv.y) * 16.0, 0.0, 1.0);
+  col *= pow(vig, 0.22);
 
   // The switch-on line is over-bright.
   col *= 1.0 + 2.5 * (1.0 - open) * wide;
   col *= inside * step(0.001, u_power);
 
   // Reflection on the glass, drawn in screen space so it doesn't curve.
-  float shine = smoothstep(0.55, 0.0, length((v_uv - vec2(0.22, 0.12)) * vec2(1.0, 1.6)));
-  col += vec3(0.05, 0.055, 0.06) * shine;
+  float shine = smoothstep(0.55, 0.0, length((p - vec2(0.22, 0.12)) * vec2(1.0, 1.6)));
+  col += vec3(0.05, 0.055, 0.06) * shine * inside * vig;
 
   gl_FragColor = vec4(col, 1.0);
 }`;
@@ -206,7 +211,7 @@ export class CRT {
     gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
 
     this.u = {};
-    for (const name of ['u_res', 'u_src', 'u_time', 'u_power', 'u_motion']) this.u[name] = gl.getUniformLocation(prog, name);
+    for (const name of ['u_res', 'u_src', 'u_time', 'u_power', 'u_motion', 'u_rect']) this.u[name] = gl.getUniformLocation(prog, name);
     gl.uniform2f(this.u.u_src, FRAME_W, FRAME_H);
     return true;
   }
@@ -223,9 +228,20 @@ export class CRT {
     }
   }
 
+  // The biggest 4:3 area that fits, centred (or at the top, for phones held
+  // upright, so the buttons fit underneath).
+  #pictureRect(width, height) {
+    let w = width, h = (width * 3) / 4;
+    if (h > height) { h = height; w = (height * 4) / 3; }
+    const x = (width - w) / 2;
+    const y = matchMedia('(orientation: portrait)').matches ? Math.min(12 * (window.devicePixelRatio || 1), height - h) : (height - h) / 2;
+    return { x, y, w, h };
+  }
+
   draw(frameCanvas, time, frameChanged) {
     this.resize();
     const { width, height } = this.canvas;
+    const rect = this.#pictureRect(width, height);
     if (this.gl && this.enabled) {
       const { gl } = this;
       gl.viewport(0, 0, width, height);
@@ -234,6 +250,7 @@ export class CRT {
       gl.uniform1f(this.u.u_time, time / 1000);
       gl.uniform1f(this.u.u_power, this.power);
       gl.uniform1f(this.u.u_motion, this.motion);
+      gl.uniform4f(this.u.u_rect, rect.x / width, rect.y / height, rect.w / width, rect.h / height);
       gl.drawArrays(gl.TRIANGLE_STRIP, 0, 4);
       return;
     }
@@ -242,7 +259,7 @@ export class CRT {
     ctx.imageSmoothingEnabled = true;
     ctx.fillStyle = '#000';
     ctx.fillRect(0, 0, width, height);
-    if (this.power > 0.5) ctx.drawImage(frameCanvas, 0, 0, width, height);
+    if (this.power > 0.5) ctx.drawImage(frameCanvas, rect.x, rect.y, rect.w, rect.h);
   }
 
   // Switching the effect off needs a 2D canvas in place of the WebGL one.
