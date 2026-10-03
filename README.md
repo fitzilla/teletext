@@ -48,3 +48,7 @@ For live pages, use `load()` (async) and `render(data)` instead of `subpages`. S
 ## Live news
 
 Browsers can't read the BBC's RSS feeds directly, so the GitHub Action in `.github/workflows/update-feeds.yml` runs `scripts/update-feeds.mjs` every 30 minutes. The script saves the latest stories to `data/news.json` and `data/nufc.json`, and commits them only when they change. Pages 101 and 340 read those files. You can also run the Action from the Actions tab (**Run workflow**). Headlines and summaries are shown with credit to the BBC.
+
+## Hosting
+
+The site is served by GitHub Pages from the `master` branch, at the domain in `CNAME`. `.nojekyll` tells Pages to serve the files as they are. Each time the news Action commits new stories, Pages republishes the site.
