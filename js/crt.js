@@ -11,6 +11,7 @@ export const FRAME_H = 576;
 const PAGE_X = Math.round(FRAME_W * 0.115);
 const PAGE_DRAW_W = Math.round(FRAME_W * 0.77);
 const PAGE_Y = Math.round((FRAME_H - PAGE_H) / 2);
+const TIPS_HEIGHT = 38; // CSS pixels kept clear under the picture
 
 const BARS = ['#bfbfbf', '#bfbf00', '#00bfbf', '#00bf00', '#bf00bf', '#bf0000', '#0000bf', '#101010'];
 
@@ -231,10 +232,14 @@ export class CRT {
   // The biggest 4:3 area that fits, centred (or at the top, for phones held
   // upright, so the buttons fit underneath).
   #pictureRect(width, height) {
+    const dpr = window.devicePixelRatio || 1;
+    const portrait = matchMedia('(orientation: portrait)').matches;
+    // Landscape keeps a strip at the bottom free for the keyboard tips.
+    const room = portrait ? height : height - TIPS_HEIGHT * Math.min(dpr, 2);
     let w = width, h = (width * 3) / 4;
-    if (h > height) { h = height; w = (height * 4) / 3; }
+    if (h > room) { h = room; w = (room * 4) / 3; }
     const x = (width - w) / 2;
-    const y = matchMedia('(orientation: portrait)').matches ? Math.min(12 * (window.devicePixelRatio || 1), height - h) : (height - h) / 2;
+    const y = portrait ? Math.min(12 * dpr, height - h) : (room - h) / 2;
     return { x, y, w, h };
   }
 

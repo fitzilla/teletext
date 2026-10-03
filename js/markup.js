@@ -44,6 +44,9 @@ function byteFor(ch) {
   return 0x3f;
 }
 
+// The teletext bytes for a string, without padding.
+export const encode = (str) => [...expand(str)].map(byteFor);
+
 // Number of cells a marked-up string takes.
 export const width = (str) => [...expand(str)].length;
 

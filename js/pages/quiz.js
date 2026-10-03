@@ -133,7 +133,11 @@ const banner = (d) => [
 
 const quiz = {
   number: 150,
-  cycle: 25,
+  cycle: 40,
+  tips: {
+    keys: [['V', 'reveal answer'], ['→', 'next question'], ['H', 'hold']],
+    touch: [['123 then ?', 'reveal answer'], ['Tap', 'next question']],
+  },
   fastext: [['Index', 100], ['News', 101], ['NUFC', 340], ['Help', 105]],
   render() {
     const today = new Date();
@@ -145,10 +149,10 @@ const quiz = {
       ...wrap(q, 38).flatMap((l) => [`{dh}{white}${l}`, '']),
       '',
       ...options.flatMap((o, j) => [`{yellow} ${'ABCD'[j]}{white}${o}`, '']),
-      '{green}Press REVEAL for the answer. HOLD stops',
-      '{green}the questions moving on.',
+      '{green}Press V to reveal the answer.',
+      '{green}Press → for the next question.',
       '',
-      `{yellow}{conceal}ANSWER: ${'ABCD'[answer]} - ${options[answer]}`,
+      `{white}ANSWER:{yellow}{conceal}${'ABCD'[answer]} - ${options[answer]}`,
     ]);
   },
 };

@@ -13,6 +13,10 @@ function newsPage({ number, file, banner, source, fastext }) {
     fastext,
     cycle: 15,
     refresh: 300,
+    tips: {
+      keys: [['→', 'next story'], ['←', 'back'], ['↑', 'next page'], ['0-9', 'go to page']],
+      touch: [['Tap', 'next story'], ['123', 'go to page']],
+    },
     async load() {
       const res = await fetch(`data/${file}`, { cache: 'no-cache' });
       if (!res.ok) throw new Error(`data/${file} ${res.status}`);

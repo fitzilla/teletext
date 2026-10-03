@@ -1,7 +1,7 @@
 import { decode, paint, toText, WIDTH, HEIGHT } from './teletext.js';
 import { VideoFrame, CRT } from './crt.js';
 import { Receiver } from './receiver.js';
-import { drawButtons } from './buttons.js';
+import { drawButtons, drawTips } from './buttons.js';
 import staticPages from './pages/static.js';
 import weatherPages from './pages/weather.js';
 import newsPages from './pages/news.js';
@@ -69,7 +69,22 @@ function frame(t) {
   requestAnimationFrame(frame);
 }
 
+// Keyboard tips along the bottom, for whichever page is showing.
+const tipsCanvas = document.getElementById('tips');
+const touch = matchMedia('(pointer: coarse)').matches;
+const DEFAULT_TIPS = {
+  keys: [['0-9', 'go to page'], ['↑', 'next page'], ['R G Y B', 'links'], ['105', 'help']],
+  touch: [['123', 'go to page'], ['Colours', 'links']],
+};
+let shownTips;
+function updateTips() {
+  const tips = (receiver.current?.tips ?? DEFAULT_TIPS)[touch ? 'touch' : 'keys'];
+  if (tips !== shownTips) drawTips(tipsCanvas, (shownTips = tips));
+}
+updateTips();
+
 receiver.on((type) => {
+  if (type === 'page') updateTips();
   if (type === 'search') pageText.textContent = receiver.description;
   if (type === 'printed' || type === 'state') {
     pageText.textContent = receiver.mode === 'tv'
