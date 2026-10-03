@@ -1,12 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-03T20:23:41.646Z",
+  "fetched": "2026-10-03T23:13:04.265Z",
   "items": [
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "published": "2026-10-03T14:27:33.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+      "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+      "published": "2026-10-03T21:03:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
@@ -21,34 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-      "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
-      "published": "2026-10-03T10:27:57.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "published": "2026-10-03T13:34:11.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Man shot dead as families gather for memorial in London",
       "summary": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
-      "published": "2026-10-03T17:06:15.000Z",
+      "published": "2026-10-03T20:42:05.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+      "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
+      "published": "2026-10-03T10:27:57.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Spoiler alert! Is social media ruining big gig surprises?",
       "summary": "Big moments from headline acts are shared online long before many fans see their favourite artists.",
       "published": "2026-10-03T02:26:42.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "summary": "Motion sickness is caused by a mismatch in sensory cues and women and children are more susceptible, experts say.",
-      "published": "2026-10-03T02:36:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
