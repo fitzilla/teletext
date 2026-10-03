@@ -7,7 +7,7 @@ import { row, page as compilePage, padEnd } from './markup.js';
 const ROLL_MS = 65;       // time for one page to go by in the carousel
 const PRINT_MS = 14;      // time for one row to arrive
 const DEFAULT_CYCLE = 15; // seconds between subpages
-const DEFAULT_FASTEXT = [['Index', 100], ['News', 101], ['Weather', 401], ['Help', 105]];
+const DEFAULT_FASTEXT = [['Index', 100], ['News', 101], ['NUFC', 340], ['Weather', 401]];
 const FASTEXT_KEYS = ['red', 'green', 'yellow', 'cyan'];
 const DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];

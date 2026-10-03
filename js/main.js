@@ -3,8 +3,10 @@ import { VideoFrame, CRT } from './crt.js';
 import { Receiver } from './receiver.js';
 import staticPages from './pages/static.js';
 import weatherPages from './pages/weather.js';
+import newsPages from './pages/news.js';
+import quizPages from './pages/quiz.js';
 
-const receiver = new Receiver([...staticPages, ...weatherPages]);
+const receiver = new Receiver([...staticPages, ...newsPages, ...quizPages, ...weatherPages]);
 const video = new VideoFrame();
 const crt = new CRT(document.getElementById('screen'));
 

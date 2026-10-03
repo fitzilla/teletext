@@ -47,6 +47,19 @@ function byteFor(ch) {
 // Number of cells a marked-up string takes.
 export const width = (str) => [...expand(str)].length;
 
+// Real-world text (news feeds) uses characters teletext never had.
+const SUBSTITUTES = {
+  '‘': "'", '’': "'", '‚': "'", '′': "'", '“': '"', '”': '"', '„': '"', '″': '"',
+  '–': '-', '‑': '-', '−': '-', '…': '...', '\u00a0': ' ', '[': '(', ']': ')', '{': '(', '}': ')',
+  '•': '-', '×': 'x', '€': 'EUR', '°': ' deg',
+};
+export function clean(text) {
+  return text
+    .replace(/[‘’‚′“”„″–‑−…\u00a0\[\]{}•×€°]/g, (ch) => SUBSTITUTES[ch])
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
+}
+
 export function row(str = '') {
   const out = new Uint8Array(COLS).fill(0x20);
   const chars = [...expand(str)];

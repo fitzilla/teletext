@@ -141,7 +141,7 @@ const weatherMap = {
   load,
   refresh: 600,
   cycle: 60,
-  fastext: [['Index', 100], ['Table', 402], ['News', 101], ['Help', 105]],
+  fastext: [['Index', 100], ['Table', 402], ['News', 101], ['NUFC', 340]],
   render(data) {
     if (!data) return failed();
     const map = mapRows(data.cities);
@@ -161,7 +161,7 @@ const weatherTable = {
   load,
   refresh: 600,
   cycle: 60,
-  fastext: [['Index', 100], ['Map', 401], ['News', 101], ['Help', 105]],
+  fastext: [['Index', 100], ['Map', 401], ['News', 101], ['NUFC', 340]],
   render(data) {
     if (!data) return failed();
     const rows = data.cities.map((c, i) => {

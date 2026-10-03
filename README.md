@@ -32,3 +32,19 @@ Rows are strings. Each `{code}` is one control character and takes up one cell, 
 Codes: `red green yellow blue magenta cyan white`, graphics versions `gred … gwhite`, `flash steady dh normal conceal contig sep blackbg newbg hold release box endbox`.
 
 For live pages, use `load()` (async) and `render(data)` instead of `subpages`. See `js/pages/weather.js`.
+
+## Pages
+
+| Page | What |
+|---|---|
+| 100 | Index |
+| 101 | News headlines (BBC News) |
+| 105 | How to use FITZFAX |
+| 150 | Daily quiz: six general knowledge questions, new each day |
+| 340 | Newcastle United news (BBC Sport) |
+| 401, 402 | Live weather map and table (Open-Meteo) |
+| 888 | Subtitles |
+
+## Live news
+
+Browsers can't read the BBC's RSS feeds directly, so the GitHub Action in `.github/workflows/update-feeds.yml` runs `scripts/update-feeds.mjs` every 30 minutes. The script saves the latest stories to `data/news.json` and `data/nufc.json`, and commits them only when they change. Pages 101 and 340 read those files. You can also run the Action from the Actions tab (**Run workflow**). Headlines and summaries are shown with credit to the BBC.
