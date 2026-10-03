@@ -1,16 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 <head>
-<link href="https://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet">
-<style type="text/css">
-body {
-font-family: 'Lilita One', cursive;
-
-}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>FITZFAX · Aaron Fitzsimmons</title>
+  <meta name="description" content="FITZFAX: a live 90s-style teletext service from Aaron Fitzsimmons.">
+  <meta name="theme-color" content="#000000">
+  <link rel="stylesheet" href="css/fitzfax.css">
+  <script type="module" src="js/main.js"></script>
 </head>
 <body>
-	<h1>Aaron Fitzsimmons</h1>
-	<h1>Hello</h1>
+  <main class="stage">
+    <h1 class="sr-only">FITZFAX, the Aaron Fitzsimmons teletext service</h1>
+    <p class="sr-only">Type a three-digit page number. Up and down arrows change page, left and right arrows change subpage.</p>
+
+    <div class="screen">
+      <canvas id="screen" class="screen-canvas" aria-hidden="true"></canvas>
+    </div>
+
+    <canvas id="tips" class="tips" aria-hidden="true"></canvas>
+
+    <nav class="buttons" aria-label="Fastext links">
+      <button class="fastext" data-key="red" data-colour="red" aria-label="Red link"></button>
+      <button class="fastext" data-key="green" data-colour="green" aria-label="Green link"></button>
+      <button class="fastext" data-key="yellow" data-colour="yellow" aria-label="Yellow link"></button>
+      <button class="fastext" data-key="cyan" data-colour="blue" aria-label="Blue link"></button>
+      <button class="fastext keypad-toggle" id="keypad-toggle" data-colour="white" data-label="123" aria-expanded="false" aria-controls="keypad" aria-label="Number pad"></button>
+    </nav>
+
+    <!-- Only shown on touch screens, which have no keyboard to type with. -->
+    <div class="keypad" id="keypad" hidden>
+      <button data-key="1">1</button><button data-key="2">2</button><button data-key="3">3</button>
+      <button data-key="4">4</button><button data-key="5">5</button><button data-key="6">6</button>
+      <button data-key="7">7</button><button data-key="8">8</button><button data-key="9">9</button>
+      <button data-key="down" aria-label="Previous page">P−</button><button data-key="0">0</button><button data-key="up" aria-label="Next page">P+</button>
+      <button data-key="left" aria-label="Previous subpage">◀</button><button data-key="reveal">?</button><button data-key="right" aria-label="Next subpage">▶</button>
+    </div>
+
+    <div id="page-text" class="sr-only" aria-live="polite"></div>
+  </main>
 </body>
 </html>
