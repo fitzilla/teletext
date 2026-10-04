@@ -1,11 +1,17 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-04T18:28:54.508Z",
+  "fetched": "2026-10-04T21:47:35.776Z",
   "items": [
+    {
+      "title": "US removes all bombers from RAF Fairford base",
+      "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+      "published": "2026-10-04T21:33:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Green Party members back 'Zionism is racism' motion",
       "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
-      "published": "2026-10-04T18:08:52.000Z",
+      "published": "2026-10-04T20:51:36.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -43,12 +49,6 @@
       "summary": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
       "published": "2026-10-04T11:24:58.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-      "summary": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government.",
-      "published": "2026-10-04T11:19:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
