@@ -1,54 +1,54 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-05T13:59:34.223Z",
+  "fetched": "2026-10-05T21:29:44.591Z",
   "items": [
     {
-      "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-      "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-      "published": "2026-10-05T13:16:00.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "published": "2026-10-05T21:24:34.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What we know about former Prince Andrew's legal action against police",
+      "title": "Author and former politician Jeffrey Archer dies aged 86",
+      "summary": "His last book, Adam and Eve, is set to release this month.",
+      "published": "2026-10-05T21:23:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "King's funding for Andrew not to be used for legal action against police",
+      "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
+      "published": "2026-10-05T18:48:40.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
       "summary": "Andrew Mountbatten-Windsor is taking legal action against Thames Valley Police over his arrest in February.",
       "published": "2026-10-05T13:09:42.000Z",
       "link": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Twelve arrests after protest over migrant boat arrival",
-      "summary": "Flares were set off and there were a few scuffles with police during the stand-off in Gosport.",
-      "published": "2026-10-05T13:26:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Spanish PM Sánchez calls early election after housing protests",
-      "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
-      "published": "2026-10-05T10:18:47.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-      "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-      "published": "2026-10-05T11:34:59.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "BBC appoints Rachel Jupp as new director of news",
-      "summary": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
-      "published": "2026-10-05T13:05:13.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Teenager's hand blown off during confrontation between France school protesters and police",
       "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-      "published": "2026-10-05T12:29:45.000Z",
+      "published": "2026-10-05T16:32:18.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Average five-year mortgage rate hits 6% for first time in three years",
-      "summary": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-      "published": "2026-10-05T09:54:57.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss"
+      "title": "Prisoner took his own life after terror order had 'substantial impact' on mental state, inquest finds",
+      "summary": "Akhtar Uddin was jailed for breaching Terrorism Prevention and Investigation Measures in 2020.",
+      "published": "2026-10-05T17:21:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5398lm30pwwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
+      "summary": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+      "published": "2026-10-05T17:08:11.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "published": "2026-10-05T16:13:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
