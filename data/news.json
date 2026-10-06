@@ -1,12 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-06T15:20:34.395Z",
+  "fetched": "2026-10-06T20:26:33.973Z",
   "items": [
     {
-      "title": "Watch: At the scene of student protests in Lille",
-      "summary": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
-      "published": "2026-10-06T15:02:56.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss"
+      "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+      "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
+      "published": "2026-10-06T19:25:08.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: Police raid on gang behind fake gay asylum claims",
+      "summary": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
+      "published": "2026-10-06T19:01:17.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "published": "2026-10-06T18:03:19.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "British national arrested in connection with RAF Fairford incident",
@@ -15,40 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+      "published": "2026-10-06T17:50:19.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+      "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
+      "published": "2026-10-06T17:00:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+      "published": "2026-10-06T18:42:58.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Watch: How Russia responded to US after plague researcher death",
       "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
       "published": "2026-10-06T13:32:42.000Z",
       "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "PCs who used Taser and baton on amputee, 92, sacked",
-      "summary": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
-      "published": "2026-10-06T14:31:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Former German spy chief arrested for espionage and treason",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
-      "published": "2026-10-06T10:05:42.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Childminder who left 27 children alone in her home pleads guilty to neglect",
-      "summary": "Amanda Mathewson, 55, pleaded guilty to neglect and abandoning children in her care at Kirkcaldy Sheriff Court.",
-      "published": "2026-10-06T11:35:38.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr9dzljq56ejo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-      "summary": "The bestselling author and former politician died on Monday at the age of 86.",
-      "published": "2026-10-06T13:48:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-      "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
-      "published": "2026-10-06T14:30:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
