@@ -1,30 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-06T23:56:39.204Z",
+  "fetched": "2026-10-07T03:59:01.738Z",
   "items": [
+    {
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "published": "2026-10-07T00:56:59.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "summary": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "published": "2026-10-06T23:42:35.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
       "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to £4,500 for fabricated evidence.",
       "published": "2026-10-06T19:25:08.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: Police raid on gang behind fake gay asylum claims",
-      "summary": "The arrests come after a BBC investigation in April revealed that law firms and advisers were helping migrants pose as gay in an effort to get asylum.",
-      "published": "2026-10-06T19:01:17.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-      "published": "2026-10-06T23:52:53.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
-      "published": "2026-10-06T18:03:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
@@ -39,13 +33,19 @@
       "link": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What can I do to protect myself after 'Asos hacked' message?",
-      "summary": "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
-      "published": "2026-10-06T19:17:23.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+      "published": "2026-10-06T21:22:22.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+      "title": "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+      "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+      "published": "2026-10-07T02:58:30.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns oil giant",
       "summary": "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
       "published": "2026-10-06T23:01:13.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss"
