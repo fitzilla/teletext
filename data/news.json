@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-08T16:41:21.946Z",
+  "fetched": "2026-10-08T21:40:20.016Z",
   "items": [
     {
       "title": "Warrants used to search Andrew Mountbatten-Windsor's homes were unlawful, court says",
@@ -9,10 +9,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+      "summary": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
+      "published": "2026-10-08T17:26:49.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
-      "summary": "Police say they apprehended the suspects at about 02:00 while they were inside the perimeter.",
-      "published": "2026-10-08T16:19:43.000Z",
+      "summary": "Police say they apprehended two Latvian men at about 02:00 BST while they were inside the perimeter.",
+      "published": "2026-10-08T17:36:28.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
+      "summary": "The prime minister has intervened in the row over the motion passed by members at Green Party conference.",
+      "published": "2026-10-08T21:00:16.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
@@ -27,28 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\".",
-      "published": "2026-10-08T16:29:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Death of 12-year-old girl prompts call for allergy management ratings",
       "summary": "Mia St Hilaire had a tree nut allergy and suffered an anaphylactic shock after drinking a milkshake.",
       "published": "2026-10-08T16:07:54.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c674p508lk78o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Forty five Scottish police officers suspended over alleged crimes against women, says chief constable",
-      "summary": "Chief Constable Jo Farrell says more officers are likely to face action as officers are re-vetted.",
-      "published": "2026-10-08T16:12:40.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9l0r105l8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-      "summary": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
-      "published": "2026-10-08T12:01:55.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss"
+      "title": "'Ominous signs' of winter pressures as NHS waiting list grows in England",
+      "summary": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
+      "published": "2026-10-08T12:42:56.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
