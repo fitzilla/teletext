@@ -1,19 +1,7 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-07T22:28:04.393Z",
+  "fetched": "2026-10-08T02:11:48.334Z",
   "items": [
-    {
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
-      "published": "2026-10-07T14:33:11.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Chris Mason: Tories united behind Badenoch - but party still needs to win over voters",
-      "summary": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls.",
-      "published": "2026-10-07T16:31:06.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
       "summary": "Lawyers say the convicted killer was surprised to have survived and remained \"shackled\" to her hospital bed.",
@@ -21,34 +9,46 @@
       "link": "https://www.bbc.co.uk/news/articles/c617kdle01k9o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Watch: What we know about Christa Pike's ‘shock’ recovery in hospital",
+      "summary": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution.",
+      "published": "2026-10-07T20:01:05.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham to hold security talks with German chancellor in Berlin",
+      "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
+      "published": "2026-10-07T23:01:31.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
       "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
-      "published": "2026-10-07T21:40:24.000Z",
+      "published": "2026-10-08T00:09:17.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "summary": "The sale of the High Street chain was announced on Wednesday.",
-      "published": "2026-10-07T17:18:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+      "summary": "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
+      "published": "2026-10-07T23:05:17.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "published": "2026-10-07T20:27:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man charged with 13 attempted murders including British child after Alps attack",
-      "summary": "Abdalmasih Hanoun, accused of carrying out an attack at a French park in 2023, is set to face trial.",
-      "published": "2026-10-07T18:32:02.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8g47zll517zo?at_medium=RSS&at_campaign=rss"
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "published": "2026-10-07T16:00:18.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
       "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
-      "published": "2026-10-07T22:14:32.000Z",
+      "published": "2026-10-07T22:50:00.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+      "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+      "published": "2026-10-07T14:33:11.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
