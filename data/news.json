@@ -1,11 +1,29 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-09T15:24:51.923Z",
+  "fetched": "2026-10-09T20:11:37.508Z",
   "items": [
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "published": "2026-10-09T20:03:55.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "NI secretary to ban the Drumcree parade",
+      "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+      "published": "2026-10-09T20:06:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "published": "2026-10-09T18:40:10.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
       "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
-      "published": "2026-10-09T15:16:54.000Z",
+      "published": "2026-10-09T19:26:53.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -13,6 +31,12 @@
       "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
       "published": "2026-10-09T12:29:02.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "published": "2026-10-09T18:40:05.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
@@ -23,32 +47,8 @@
     {
       "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
       "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-      "published": "2026-10-09T15:18:58.000Z",
+      "published": "2026-10-09T17:14:16.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-      "published": "2026-10-09T12:24:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-      "summary": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-      "published": "2026-10-09T10:52:34.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "published": "2026-10-09T12:34:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
-      "published": "2026-10-09T11:35:00.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
