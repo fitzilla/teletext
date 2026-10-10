@@ -1,18 +1,30 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-09T20:11:37.508Z",
+  "fetched": "2026-10-10T00:08:27.298Z",
   "items": [
     {
       "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
       "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "published": "2026-10-09T20:03:55.000Z",
+      "published": "2026-10-09T21:54:28.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "published": "2026-10-09T22:30:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "NI secretary to ban the Drumcree parade",
       "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
-      "published": "2026-10-09T20:06:38.000Z",
+      "published": "2026-10-09T21:46:19.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "summary": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+      "published": "2026-10-09T22:51:57.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
@@ -21,34 +33,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "published": "2026-10-09T21:50:47.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
+      "summary": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
+      "published": "2026-10-09T23:00:53.000Z",
+      "link": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
       "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
       "published": "2026-10-09T19:26:53.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
-      "published": "2026-10-09T12:29:02.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-      "published": "2026-10-09T18:40:05.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-      "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
-      "published": "2026-10-09T14:35:31.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-      "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-      "published": "2026-10-09T17:14:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
