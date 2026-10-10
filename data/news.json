@@ -1,36 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-10T17:33:14.409Z",
+  "fetched": "2026-10-10T20:55:45.111Z",
   "items": [
     {
       "title": "Man dies after tiger attack at wildlife park",
-      "summary": "The visitor attraction near Doncaster was evacuated on Saturday and remains closed for the weekend.",
-      "published": "2026-10-10T17:30:03.000Z",
+      "summary": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say.",
+      "published": "2026-10-10T19:09:59.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "published": "2026-10-10T19:28:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "published": "2026-10-10T16:30:21.000Z",
+      "published": "2026-10-10T17:44:26.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "published": "2026-10-10T14:24:14.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "published": "2026-10-10T19:08:17.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
-      "summary": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds.",
-      "published": "2026-10-10T09:19:53.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss"
+      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+      "summary": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered.",
+      "published": "2026-10-10T14:27:43.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: 'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
-      "published": "2026-10-10T14:13:13.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss"
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "published": "2026-10-10T18:22:29.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "King warns malicious online actors are evolving tactics",
@@ -43,12 +49,6 @@
       "summary": "The US singer-songwriter reveals the story behind her international smash hit, Stop The Wedding.",
       "published": "2026-10-09T23:01:22.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "I couldn't access my family's medical history - not knowing was terrifying",
-      "summary": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health.",
-      "published": "2026-10-10T05:00:22.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
