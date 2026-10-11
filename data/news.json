@@ -1,18 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-11T13:11:11.381Z",
+  "fetched": "2026-10-11T18:13:06.830Z",
   "items": [
     {
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-      "published": "2026-10-11T11:32:50.000Z",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+      "published": "2026-10-11T16:41:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
+      "published": "2026-10-11T15:32:32.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
-      "published": "2026-10-11T10:34:02.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss"
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+      "published": "2026-10-11T18:00:30.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Wildlife park remains closed after fatal tiger attack",
@@ -21,34 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK does not support Trump's Russia diesel deal, says Streeting",
-      "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
-      "published": "2026-10-11T11:00:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss"
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "published": "2026-10-11T15:18:52.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "published": "2026-10-11T15:32:23.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Pope Leo to have surgery after lump found on lung",
       "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "published": "2026-10-11T12:52:38.000Z",
+      "published": "2026-10-11T13:38:55.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
-      "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
-      "published": "2026-10-10T23:17:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "published": "2026-10-10T23:31:35.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
-      "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
-      "published": "2026-10-10T23:18:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss"
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+      "published": "2026-10-11T14:38:10.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
