@@ -1,7 +1,19 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-03T16:39:39.529Z",
+  "fetched": "2026-10-12T23:40:54.236Z",
   "items": [
+    {
+      "title": "Coventry thrash Newcastle to claim first home win of season",
+      "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
+      "published": "2026-10-12T21:35:07.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Carroll thanks public for support over sexual assault",
+      "summary": "Former England striker Andy Carroll thanks the public for their support after speaking publicly about being sexually assaulted by a man.",
+      "published": "2026-10-12T20:24:15.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqy8le93zg7jo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "'Without Hornicek we'd be in the relegation zone'",
       "summary": "Newcastle fan speaks about the club's start to the season and who has over and underperformed.",
@@ -37,18 +49,6 @@
       "summary": "Lewis Hall talks through his goal with the pundits inside the Final Score studio.",
       "published": "2026-09-19T17:53:46.000Z",
       "link": "https://www.bbc.co.uk/sport/football/videos/cj3v46ezp5nko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Newcastle players see Jaissle's angry side - can they respond?",
-      "summary": "Newcastle United head coach Matthias Jaissle was forthright in the away dressing room at Elland Road on Monday night following a chastening 4-1 defeat against Leeds United.",
-      "published": "2026-09-17T15:58:24.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck980pprp5n1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'This player should be in the next England squad...'",
-      "summary": "Missed out on the World Cup, but should these players get an England call-up from Thomas Tuchel on Friday?",
-      "published": "2026-09-17T10:32:25.000Z",
-      "link": "https://www.bbc.co.uk/sport/videos/ck05r02z2pz7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
