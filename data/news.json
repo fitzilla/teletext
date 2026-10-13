@@ -1,36 +1,30 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-13T19:24:35.096Z",
+  "fetched": "2026-10-13T23:21:07.056Z",
   "items": [
+    {
+      "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+      "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
+      "published": "2026-10-13T22:07:06.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "published": "2026-10-13T20:46:06.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "published": "2026-10-13T21:42:49.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
       "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
       "published": "2026-10-13T15:52:15.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man killed in tiger attack identified as William Chapman",
-      "summary": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
-      "published": "2026-10-13T16:30:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Football regulator says he would quit over any political interference in Man City case",
-      "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
-      "published": "2026-10-13T16:00:18.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
-      "published": "2026-10-13T19:23:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Three things we've learnt about the UK economy from the IMF",
-      "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-      "published": "2026-10-13T11:58:43.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
@@ -40,8 +34,8 @@
     },
     {
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
-      "published": "2026-10-13T18:54:17.000Z",
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "published": "2026-10-13T19:51:14.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -49,6 +43,12 @@
       "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
       "published": "2026-10-13T18:23:22.000Z",
       "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "published": "2026-10-13T19:23:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
