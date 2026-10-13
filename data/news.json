@@ -1,30 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-12T23:40:54.103Z",
+  "fetched": "2026-10-13T04:42:41.865Z",
   "items": [
     {
-      "title": "Burnham to push for new post-Brexit deals at EU summit",
-      "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
-      "published": "2026-10-12T17:38:15.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss"
+      "title": "Hundreds more prisoners to be freed in second phase of early release scheme",
+      "summary": "Second tranche of prisoners will include those serving up to two and a half years for crimes.",
+      "published": "2026-10-13T01:13:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government expands police support to political figures who are not MPs",
-      "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
-      "published": "2026-10-12T19:51:34.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss"
+      "title": "Why the prime minister wants to talk about Brexit again",
+      "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
+      "published": "2026-10-13T01:27:59.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "published": "2026-10-12T21:20:51.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
-      "summary": "Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
-      "published": "2026-10-12T16:28:10.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss"
+      "title": "Heating oil customers face tough winter despite shake-up promise",
+      "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "published": "2026-10-12T23:02:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Publicly owned rail is popular. But is it making the trains run on time?",
@@ -33,22 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Government expands police support to political figures who are not MPs",
+      "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+      "published": "2026-10-12T19:51:34.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "published": "2026-10-12T23:39:39.000Z",
+      "published": "2026-10-13T03:44:40.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+      "published": "2026-10-13T03:14:13.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Abramovich's close associate misled UK court in £1bn oil-fields case, documents suggest",
       "summary": "Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch’s wealth.",
       "published": "2026-10-12T18:36:34.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "published": "2026-10-12T20:17:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
