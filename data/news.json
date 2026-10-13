@@ -1,12 +1,30 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-13T12:22:28.404Z",
+  "fetched": "2026-10-13T19:24:35.096Z",
   "items": [
     {
-      "title": "MI5 tackling more state threats than during Cold War, warns intelligence chief",
-      "summary": "Sir Ken McCallum says Russia, Iran and emerging threats from AI were increasing the risks to Britain.",
-      "published": "2026-10-13T12:00:47.000Z",
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "published": "2026-10-13T15:52:15.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Man killed in tiger attack identified as William Chapman",
+      "summary": "A health and safety investigation is under way at Yorkshire Wildlife Park following the incident.",
+      "published": "2026-10-13T16:30:58.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Football regulator says he would quit over any political interference in Man City case",
+      "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+      "published": "2026-10-13T16:00:18.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+      "published": "2026-10-13T19:23:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Three things we've learnt about the UK economy from the IMF",
@@ -15,40 +33,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
-      "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason.",
-      "published": "2026-10-13T01:27:59.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss"
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "published": "2026-10-13T18:25:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "published": "2026-10-13T05:02:34.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
+      "published": "2026-10-13T18:54:17.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
-      "published": "2026-10-13T08:03:34.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What newly released emergency calls tell us about Christa Pike's botched execution",
-      "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-      "published": "2026-10-13T12:03:51.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "BA flight forced to turn back over cracked window",
-      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-      "published": "2026-10-13T11:48:07.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "One dead and several hurt after rollercoaster incident at US amusement park",
-      "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
-      "published": "2026-10-13T10:28:07.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
+      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
+      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
+      "published": "2026-10-13T18:23:22.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
