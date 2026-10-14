@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-14T02:01:47.036Z",
+  "fetched": "2026-10-14T07:51:04.541Z",
   "items": [
     {
       "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
@@ -9,9 +9,27 @@
       "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+      "summary": "Officers tell the BBC they are overstretched and struggling to keep up with sophisticated criminals.",
+      "published": "2026-10-14T05:01:07.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: BBC joins police on front line against car theft",
+      "summary": "Investigations reporter NJ Convery has been out on a nighttime hunt for vehicle thieves.",
+      "published": "2026-10-14T05:00:37.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+      "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
+      "published": "2026-10-14T07:21:50.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "published": "2026-10-14T00:17:00.000Z",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "published": "2026-10-14T07:23:46.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -21,34 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "published": "2026-10-13T15:52:15.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "published": "2026-10-14T05:00:35.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Zelensky and Burnham to meet in Downing Street",
-      "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
-      "published": "2026-10-13T21:31:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Royal Mail losing 400 postal workers a week, says union",
-      "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
-      "published": "2026-10-13T23:03:59.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "published": "2026-10-13T19:51:14.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "published": "2026-10-13T18:25:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
+      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+      "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
+      "published": "2026-10-14T06:11:08.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
