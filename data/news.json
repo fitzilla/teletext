@@ -1,12 +1,30 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-14T07:51:04.541Z",
+  "fetched": "2026-10-14T13:12:15.401Z",
   "items": [
+    {
+      "title": "Starlink network restrictions in Ukraine related to political situation, Zelensky aide says",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "published": "2026-10-14T13:11:17.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: Block of flats in ruins after Russian strikes on Ukraine",
+      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+      "published": "2026-10-14T09:25:03.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
       "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-      "published": "2026-10-13T23:58:56.000Z",
+      "published": "2026-10-14T12:44:17.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+      "published": "2026-10-14T12:47:43.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
@@ -21,34 +39,16 @@
       "link": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
-      "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
-      "published": "2026-10-14T07:21:50.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+      "published": "2026-10-14T11:57:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "published": "2026-10-14T07:23:46.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "published": "2026-10-13T21:42:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "World's oldest shipwreck found off coast of Turkey",
+      "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
       "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
       "published": "2026-10-14T05:00:35.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
-      "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
-      "published": "2026-10-14T06:11:08.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
