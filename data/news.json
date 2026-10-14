@@ -1,17 +1,17 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-13T23:21:07.056Z",
+  "fetched": "2026-10-14T02:01:47.036Z",
   "items": [
     {
       "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
       "summary": "William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.",
-      "published": "2026-10-13T22:07:06.000Z",
+      "published": "2026-10-13T23:58:56.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-      "published": "2026-10-13T20:46:06.000Z",
+      "published": "2026-10-14T00:17:00.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -27,10 +27,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
-      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
-      "published": "2026-10-13T18:25:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
+      "title": "Zelensky and Burnham to meet in Downing Street",
+      "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+      "published": "2026-10-13T21:31:30.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Royal Mail losing 400 postal workers a week, says union",
+      "summary": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+      "published": "2026-10-13T23:03:59.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
@@ -39,16 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-      "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week.",
-      "published": "2026-10-13T18:23:22.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "published": "2026-10-13T19:23:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "published": "2026-10-13T18:25:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
