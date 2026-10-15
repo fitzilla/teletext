@@ -1,11 +1,11 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-15T21:52:58.755Z",
+  "fetched": "2026-10-15T23:58:43.250Z",
   "items": [
     {
       "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "summary": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
-      "published": "2026-10-15T21:12:14.000Z",
+      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "published": "2026-10-15T22:37:21.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -21,16 +21,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russell Brand accuser says he turned 'monster-like' before alleged rape",
-      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-      "published": "2026-10-15T16:35:05.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7ldzl7j4po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
-      "summary": "The Duchess of Sussex has not done anything like the day of events in Nottingham for several years on British soil.",
-      "published": "2026-10-15T20:24:32.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&at_campaign=rss"
+      "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
+      "summary": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
+      "published": "2026-10-15T23:01:49.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Banks say Healey is planning Budget tax raid on their profits",
@@ -39,16 +33,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Reform faces questions over candidate vetting after undercover filming",
+      "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
+      "published": "2026-10-15T23:52:27.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "This 75,000-year-old wound suggests Neanderthal life was more violent than we thought",
       "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
       "published": "2026-10-15T15:00:05.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Swimmer's emotional TV plea for cancer research leads to meeting with PM",
-      "summary": "Scottish athlete, Archie Goodburn, who was diagnosed with three inoperable brain tumours two years ago, met Andy Burnham after an appeal for more investment into brain cancer research.",
-      "published": "2026-10-15T10:56:25.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cxnv01gylmvjo?at_medium=RSS&at_campaign=rss"
+      "title": "London housing project wins top architecture award",
+      "summary": "Lion Green Road in Coulsdon was recognised for the way it responds to its surroundings.",
+      "published": "2026-10-15T20:36:32.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzgl7zz9po?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
