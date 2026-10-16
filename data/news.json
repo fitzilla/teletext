@@ -1,18 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-16T03:31:05.177Z",
+  "fetched": "2026-10-16T08:37:34.766Z",
   "items": [
     {
-      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
-      "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
-      "published": "2026-10-16T03:01:38.000Z",
+      "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say.",
+      "published": "2026-10-16T03:45:09.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
-      "published": "2026-10-15T22:37:21.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
+      "title": "Banks say Healey planning to increase tax on their profits in Budget",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "published": "2026-10-16T07:13:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Same-day test helps doctors detect hidden infections in critically ill children",
@@ -27,28 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "published": "2026-10-15T22:37:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Doctor regrets not going to police earlier about Lucy Letby",
+      "summary": "Dr Stephen Brearey was the lead neonatal consultant at the hospital where the nurse worked.",
+      "published": "2026-10-16T08:28:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7x1prldedo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march",
       "summary": "The celebrities turn on each other at the round table, and have to beat the death marchers for their mission.",
       "published": "2026-10-15T23:01:49.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cq4g17j1ej95o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "published": "2026-10-15T17:47:22.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
-      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "published": "2026-10-15T17:14:36.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Reform faces questions over candidate vetting after undercover filming",
-      "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\".",
-      "published": "2026-10-15T23:52:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Will disenchanted Iowa Republicans reject Trump in the midterms?",
+      "summary": "The BBC's Sarah Smith travelled across the state ahead of the midterms, as the president faces political headwinds.",
+      "published": "2026-10-16T04:16:31.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c32l4kqg2q4ro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
