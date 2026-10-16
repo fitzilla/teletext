@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-16T20:18:10.083Z",
+  "fetched": "2026-10-16T22:55:10.419Z",
   "items": [
     {
       "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
@@ -15,22 +15,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+      "summary": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
+      "published": "2026-10-16T16:07:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Man killed by tiger may have had medical records breached by NHS staff",
       "summary": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
       "published": "2026-10-16T16:53:07.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
-      "published": "2026-10-16T14:31:04.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-      "summary": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
-      "published": "2026-10-16T16:07:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss"
+      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
+      "published": "2026-10-16T20:08:07.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Watch: Did Tesla really just unveil a flying car?",
@@ -45,10 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/c6wyrk0gxlw2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Well-known' man asks court to stop publication of sexual offence allegation",
-      "summary": "The unnamed individual asks London's High Court to prevent the publication of \"serious allegations\".",
-      "published": "2026-10-16T18:46:14.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c674pz3l0e73o?at_medium=RSS&at_campaign=rss"
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "published": "2026-10-16T14:31:04.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
