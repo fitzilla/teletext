@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-17T21:13:48.835Z",
+  "fetched": "2026-10-17T23:15:23.919Z",
   "items": [
+    {
+      "title": "Newcastle 'haunted' by failed signing Manzambi in defeat to Villa",
+      "summary": "Newcastle fan Raul Kohli says his club's defeat to Aston Villa was a tale of past rejections, with summer failed signing Johan Manzambi influential for the visitors.",
+      "published": "2026-10-17T22:44:51.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6y938e7w7xlo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Manzambi heads Villa to victory at Newcastle",
       "summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
@@ -43,12 +49,6 @@
       "summary": "Mfuwe Mags are chasing promotion in the familiar black-and-white stripes of Newcastle United.",
       "published": "2026-09-25T05:04:56.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c9vgy8mr1e5ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Carroll reveals he was sexually assaulted in 2021",
-      "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
-      "published": "2026-09-24T12:18:04.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
