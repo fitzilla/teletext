@@ -1,24 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-17T05:13:33.964Z",
+  "fetched": "2026-10-17T09:32:29.535Z",
   "items": [
     {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "published": "2026-10-17T05:02:50.000Z",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "published": "2026-10-17T07:41:01.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-      "summary": "It comes after the prime minister refused to say whether he backed expansion.",
-      "published": "2026-10-17T03:57:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "published": "2026-10-17T01:19:04.000Z",
+      "published": "2026-10-17T06:49:48.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+      "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+      "published": "2026-10-17T08:34:44.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
@@ -27,16 +27,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-      "summary": "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job.",
-      "published": "2026-10-16T20:28:59.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
+      "published": "2026-10-17T01:59:48.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
-      "published": "2026-10-16T20:08:07.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss"
+      "title": "Swinney insists 'stars are aligning' for Scottish independence",
+      "summary": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
+      "published": "2026-10-17T08:17:18.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors",
@@ -45,10 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cq70pre80gwko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
-      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "published": "2026-10-17T01:59:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss"
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+      "published": "2026-10-16T18:11:29.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
