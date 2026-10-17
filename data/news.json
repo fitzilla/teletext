@@ -1,13 +1,7 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-17T18:57:32.228Z",
+  "fetched": "2026-10-17T21:13:48.743Z",
   "items": [
-    {
-      "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
-      "summary": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
-      "published": "2026-10-17T12:14:52.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "More NHS staff sacked over attacks victims' records",
       "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
@@ -21,16 +15,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
-      "summary": "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control.",
-      "published": "2026-10-17T15:36:05.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss"
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "published": "2026-10-17T20:53:00.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Swinney's emotional explanation for his commitment to independence",
+      "summary": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+      "published": "2026-10-17T18:11:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Pope discharged from hospital days after lung cancer surgery",
       "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
       "published": "2026-10-17T13:51:36.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+      "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+      "published": "2026-10-17T16:02:31.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
@@ -43,12 +49,6 @@
       "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
       "published": "2026-10-16T23:49:16.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "published": "2026-10-16T18:11:29.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

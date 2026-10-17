@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-16T08:37:35.058Z",
+  "fetched": "2026-10-17T21:13:48.835Z",
   "items": [
+    {
+      "title": "Manzambi heads Villa to victory at Newcastle",
+      "summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+      "published": "2026-10-17T19:12:02.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Newcastle fan fears club could be in 'a lot of trouble'",
       "summary": "Newcastle fan Raul Kohli has questions marks over defenders' ability to play in Matthias Jaissle's system",
@@ -43,12 +49,6 @@
       "summary": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
       "published": "2026-09-24T12:18:04.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Lewis Hall is 'buzzing' to score",
-      "summary": "Lewis Hall talks through his goal with the pundits inside the Final Score studio.",
-      "published": "2026-09-19T17:53:46.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj3v46ezp5nko?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
