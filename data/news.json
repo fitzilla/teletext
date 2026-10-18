@@ -1,7 +1,13 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-18T17:41:45.262Z",
+  "fetched": "2026-10-18T19:53:27.207Z",
   "items": [
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "published": "2026-10-18T19:42:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
@@ -43,12 +49,6 @@
       "summary": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
       "published": "2026-10-18T13:10:18.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-      "summary": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
-      "published": "2026-10-18T17:00:42.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
