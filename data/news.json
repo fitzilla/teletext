@@ -1,29 +1,23 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-18T11:29:17.434Z",
+  "fetched": "2026-10-18T14:45:19.367Z",
   "items": [
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "published": "2026-10-18T10:53:54.000Z",
+      "published": "2026-10-18T12:07:31.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: Parisians wake up to protest damage and looted shops",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "published": "2026-10-18T10:58:39.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
       "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-      "published": "2026-10-18T11:14:33.000Z",
+      "published": "2026-10-18T14:36:41.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
       "summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-      "published": "2026-10-18T09:45:59.000Z",
+      "published": "2026-10-18T12:09:04.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -33,22 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Police officer in hospital after being shot in Nottingham",
-      "summary": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
-      "published": "2026-10-18T10:58:54.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic.",
+      "published": "2026-10-18T05:30:16.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "published": "2026-10-18T11:09:32.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+      "title": "Suspects hunted after police officer injured in shooting",
+      "summary": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
+      "published": "2026-10-18T13:10:18.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
       "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
       "published": "2026-10-17T22:09:50.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "There's a crackdown on sports piracy but is it already out of control?",
+      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "published": "2026-10-18T00:11:09.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
