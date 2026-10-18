@@ -1,24 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-18T14:45:19.367Z",
+  "fetched": "2026-10-18T17:41:45.262Z",
   "items": [
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "published": "2026-10-18T12:07:31.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
       "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
-      "published": "2026-10-18T14:36:41.000Z",
+      "published": "2026-10-18T14:57:19.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-      "summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-      "published": "2026-10-18T12:09:04.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -33,22 +27,28 @@
       "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "published": "2026-10-18T15:46:10.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+      "summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+      "published": "2026-10-18T12:09:04.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Suspects hunted after police officer injured in shooting",
       "summary": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
       "published": "2026-10-18T13:10:18.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "published": "2026-10-17T22:09:50.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "There's a crackdown on sports piracy but is it already out of control?",
-      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
-      "published": "2026-10-18T00:11:09.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss"
+      "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
+      "summary": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students.",
+      "published": "2026-10-18T17:00:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

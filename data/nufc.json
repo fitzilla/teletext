@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-17T23:15:23.919Z",
+  "fetched": "2026-10-18T17:41:45.406Z",
   "items": [
+    {
+      "title": "Are Newcastle in trouble?",
+      "summary": "After two defeats in two games, should Newcastle fans be worried by their dip in form?",
+      "published": "2026-10-18T17:02:53.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm4g1lp0nvgwo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Newcastle 'haunted' by failed signing Manzambi in defeat to Villa",
       "summary": "Newcastle fan Raul Kohli says his club's defeat to Aston Villa was a tale of past rejections, with summer failed signing Johan Manzambi influential for the visitors.",
@@ -43,12 +49,6 @@
       "summary": "From challenging for the Premier League with Arsenal and playing for England, Aaron Ramsdale is now Southampton's fourth-choice goalkeeper.",
       "published": "2026-09-28T08:10:08.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Newcastle fan kitting out Zambian footballers",
-      "summary": "Mfuwe Mags are chasing promotion in the familiar black-and-white stripes of Newcastle United.",
-      "published": "2026-09-25T05:04:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgy8mr1e5ro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
