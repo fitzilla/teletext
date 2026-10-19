@@ -1,12 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-19T17:37:16.406Z",
+  "fetched": "2026-10-19T21:52:23.693Z",
   "items": [
     {
-      "title": "Watch: Are the French riots a warning of an intense election to come?",
-      "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
-      "published": "2026-10-19T13:43:27.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss"
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "published": "2026-10-19T21:14:53.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: Clean up begins after French riots but police remain",
+      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+      "published": "2026-10-19T21:30:08.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Australian MP critically injured after being hit by car in apparent attack",
@@ -15,40 +21,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "published": "2026-10-19T20:49:00.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "published": "2026-10-19T21:30:06.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
       "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
-      "published": "2026-10-19T13:01:50.000Z",
+      "published": "2026-10-19T18:22:06.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Mission blasts off for Mars to grab a piece of its moon",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "published": "2026-10-19T19:45:46.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
       "published": "2026-10-19T17:18:04.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
-      "published": "2026-10-19T16:22:12.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
-      "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
-      "published": "2026-10-19T12:12:02.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "published": "2026-10-19T09:11:42.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Mission set to blast off for Mars to grab a piece of its moon",
-      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "published": "2026-10-19T08:03:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
