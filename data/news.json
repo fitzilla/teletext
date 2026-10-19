@@ -1,30 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-19T11:00:40.253Z",
+  "fetched": "2026-10-19T17:37:16.406Z",
   "items": [
     {
-      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
-      "summary": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
-      "published": "2026-10-19T04:59:47.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Are the French riots a warning of an intense election to come?",
+      "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+      "published": "2026-10-19T13:43:27.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
-      "published": "2026-10-19T00:06:25.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
+      "title": "Australian MP critically injured after being hit by car in apparent attack",
+      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+      "published": "2026-10-19T14:09:54.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-      "summary": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
-      "published": "2026-10-19T00:28:44.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss"
+      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "summary": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "published": "2026-10-19T13:01:50.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Four arrested after police officer injured in shooting",
-      "summary": "The officer was shot in the foot and remains in hospital in a stable condition, police say.",
-      "published": "2026-10-19T10:52:25.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss"
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "published": "2026-10-19T17:18:04.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "published": "2026-10-19T16:22:12.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+      "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family.",
+      "published": "2026-10-19T12:12:02.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
@@ -33,22 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Reform MSP quits party to sit as independent",
-      "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour.",
-      "published": "2026-10-19T10:52:43.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-      "summary": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
-      "published": "2026-10-19T10:34:18.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Home sellers cut asking prices on 3,000 properties a day",
-      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-      "published": "2026-10-18T23:00:45.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
+      "title": "Mission set to blast off for Mars to grab a piece of its moon",
+      "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+      "published": "2026-10-19T08:03:49.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
