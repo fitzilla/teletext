@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-18T22:05:52.096Z",
+  "fetched": "2026-10-19T00:18:13.431Z",
   "items": [
     {
       "title": "Macron calls for 'calm and order' after riots across France",
@@ -9,10 +9,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-      "published": "2026-10-18T21:37:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "published": "2026-10-18T23:06:09.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "published": "2026-10-19T00:06:25.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
@@ -28,27 +34,21 @@
     },
     {
       "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
       "published": "2026-10-18T21:00:22.000Z",
       "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "published": "2026-10-18T23:00:45.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
       "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
       "published": "2026-10-18T19:53:27.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "published": "2026-10-18T15:46:10.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-      "summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
-      "published": "2026-10-18T12:09:04.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
