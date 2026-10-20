@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-19T21:52:23.693Z",
+  "fetched": "2026-10-20T00:50:19.885Z",
   "items": [
     {
       "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
@@ -15,16 +15,16 @@
       "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-      "published": "2026-10-19T14:09:54.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "published": "2026-10-19T20:49:00.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Criminals detained in hospital set to lose benefits",
+      "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+      "published": "2026-10-19T23:21:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Burnham vows end to 'rip-off parking charges' under new rules",
@@ -45,10 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-      "published": "2026-10-19T17:18:04.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+      "title": "US church on frontline of battle against drug known as 'tranq'",
+      "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "published": "2026-10-20T00:02:32.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
