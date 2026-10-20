@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-19T11:00:40.411Z",
+  "fetched": "2026-10-20T19:30:56.309Z",
   "items": [
+    {
+      "title": "Webb backs VAR over Botman challenge on Jackson",
+      "summary": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
+      "published": "2026-10-20T16:56:53.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Are Newcastle in trouble?",
       "summary": "After two defeats in two games, should Newcastle fans be worried by their dip in form?",
@@ -43,12 +49,6 @@
       "summary": "From challenging for the Premier League with Arsenal and playing for England, Aaron Ramsdale is now Southampton's fourth-choice goalkeeper.",
       "published": "2026-09-28T08:10:08.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgy802y2n9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The Newcastle fan kitting out Zambian footballers",
-      "summary": "Mfuwe Mags are chasing promotion in the familiar black-and-white stripes of Newcastle United.",
-      "published": "2026-09-25T05:04:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgy8mr1e5ro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

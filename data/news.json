@@ -1,12 +1,36 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-20T15:29:58.079Z",
+  "fetched": "2026-10-20T19:30:56.180Z",
   "items": [
     {
+      "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+      "summary": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+      "published": "2026-10-20T18:32:14.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+      "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+      "published": "2026-10-20T15:32:36.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "published": "2026-10-20T18:03:19.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-      "summary": "The closurse are announced as the corporation continues to try to save £500m over two years.",
+      "summary": "The closures are announced as the corporation continues to try to save £500m over two years.",
       "published": "2026-10-20T13:10:43.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Harry says he wants to 'reconcile' with his family",
+      "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
+      "published": "2026-10-20T15:49:54.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
@@ -15,40 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-      "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
-      "published": "2026-10-20T13:54:35.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss"
+      "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+      "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell.",
+      "published": "2026-10-20T18:52:32.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Student who stabbed housemate 30 times admits murder",
-      "summary": "Zack Coughlan changes his plea and admits murdering Jamie Collins (pictured) near their Bristol home.",
+      "summary": "Jamie Collins is described as a \"sensitive and caring young man\" after his killer admits murder.",
       "published": "2026-10-20T14:35:14.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
-      "published": "2026-10-20T13:39:11.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
-      "published": "2026-10-20T11:25:35.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Woman describes alleged assault by Russell Brand as 'frenzied' and 'violent'",
-      "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
-      "published": "2026-10-20T13:46:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Harry says he wants to 'reconcile' with his family",
-      "summary": "Prince Harry says he wants reconciliation with his family, in an interview with a magazine in New York last month.",
-      "published": "2026-10-20T14:01:40.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
