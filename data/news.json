@@ -1,54 +1,54 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-21T06:12:48.918Z",
+  "fetched": "2026-10-21T12:07:39.865Z",
   "items": [
     {
-      "title": "Lawyer caught offering to make illegal-worker fine go away",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
+      "published": "2026-10-21T12:00:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
+      "published": "2026-10-21T07:56:30.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
       "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
       "published": "2026-10-21T05:00:35.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+      "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
       "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
       "published": "2026-10-21T05:00:54.000Z",
       "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "published": "2026-10-21T03:59:18.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+      "title": "Teenage boy guilty of trying to murder girl, 15, in school",
+      "summary": "The school went into lockdown and parents gathered at the gates as they waited for news about their children.",
+      "published": "2026-10-21T12:03:52.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "King praises Oman's Strait of Hormuz peace efforts at glittering banquet",
-      "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit.",
-      "published": "2026-10-21T01:28:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss"
+      "title": "Hackers steal children's data after company used 'Password1' to protect old account",
+      "summary": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack.",
+      "published": "2026-10-21T10:56:47.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
-      "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-      "published": "2026-10-21T04:13:14.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
+      "published": "2026-10-21T11:47:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "France is divided over who to blame for weekend riots and what to learn from them",
-      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-      "published": "2026-10-21T01:22:51.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Schools should recognise antisemitism as distinct form of harm, review says",
-      "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell.",
-      "published": "2026-10-20T18:52:32.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
-      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
-      "published": "2026-10-21T04:44:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss"
+      "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+      "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
+      "published": "2026-10-21T08:19:32.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
