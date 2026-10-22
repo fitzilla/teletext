@@ -1,7 +1,19 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-22T13:57:54.642Z",
+  "fetched": "2026-10-22T18:18:22.961Z",
   "items": [
+    {
+      "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+      "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+      "published": "2026-10-22T17:46:58.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "published": "2026-10-22T17:12:51.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "AI discovered a massive cyber-security flaw - here's what happened",
       "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
@@ -9,22 +21,22 @@
       "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-      "published": "2026-10-22T12:54:36.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "published": "2026-10-22T17:14:04.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
       "summary": "The friend of a woman claiming to have been raped by Russell Brand says she said he was \"quite aggressive\".",
-      "published": "2026-10-22T12:34:36.000Z",
+      "published": "2026-10-22T16:45:09.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Moment man rescued from sinking car by Australian TV reporter",
-      "summary": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
-      "published": "2026-10-22T11:08:33.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss"
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "published": "2026-10-22T15:56:36.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Two storms in two days as Austen and Boelo head for UK",
@@ -33,22 +45,10 @@
       "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
-      "summary": "He says he found treasure in his attic where the collection had been stored for 15 years.",
-      "published": "2026-10-22T13:31:04.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "French weekend protests to be limited to union demos only, says Macron",
-      "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
-      "published": "2026-10-22T13:02:14.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
-      "summary": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life.",
-      "published": "2026-10-22T06:41:29.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss"
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "published": "2026-10-22T17:07:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
