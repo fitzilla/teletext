@@ -1,7 +1,31 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-23T00:15:59.738Z",
+  "fetched": "2026-10-23T05:07:22.641Z",
   "items": [
+    {
+      "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+      "summary": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+      "published": "2026-10-23T05:00:05.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+      "summary": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+      "published": "2026-10-23T05:00:12.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "published": "2026-10-22T21:42:39.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
+      "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
+      "published": "2026-10-23T05:00:32.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
       "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
@@ -15,12 +39,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "published": "2026-10-22T21:42:39.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
       "summary": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize.",
       "published": "2026-10-23T00:14:08.000Z",
@@ -31,24 +49,6 @@
       "summary": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
       "published": "2026-10-23T00:08:43.000Z",
       "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Celebrity Traitors - paranoia deepens as traitor behaviour splits opinion",
-      "summary": "The murder in plain sight victim was revealed ahead of another difficult round table.",
-      "published": "2026-10-22T22:48:44.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxn3133rdwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-      "published": "2026-10-23T00:10:46.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Grid operator says lights will stay on this winter after concerns",
-      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-      "published": "2026-10-22T23:04:38.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
