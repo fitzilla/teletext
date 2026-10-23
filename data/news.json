@@ -1,11 +1,11 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-23T10:18:17.011Z",
+  "fetched": "2026-10-23T15:16:28.494Z",
   "items": [
     {
       "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-      "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images found in the Philippines.",
-      "published": "2026-10-23T10:17:54.000Z",
+      "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+      "published": "2026-10-23T14:43:48.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -15,10 +15,16 @@
       "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
-      "published": "2026-10-23T09:44:40.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "published": "2026-10-23T14:15:23.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham suggests stocking up on tinned food and bottled water",
+      "summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
+      "published": "2026-10-23T12:41:10.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
@@ -33,22 +39,16 @@
       "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "published": "2026-10-23T09:36:43.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "published": "2026-10-23T15:06:27.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Personalised skin cancer vaccine cuts risk of disease returning in major trial",
-      "summary": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
-      "published": "2026-10-23T07:49:02.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Final James Bond screen tests to take place this weekend, reports say",
-      "summary": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role.",
-      "published": "2026-10-23T09:41:44.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c50mep10dek7o?at_medium=RSS&at_campaign=rss"
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "published": "2026-10-23T14:45:43.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
