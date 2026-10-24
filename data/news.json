@@ -1,24 +1,12 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-24T05:14:55.935Z",
+  "fetched": "2026-10-24T09:40:08.165Z",
   "items": [
     {
-      "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-      "summary": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
-      "published": "2026-10-24T02:25:54.000Z",
-      "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "France prepares for day of protest a week after nationwide riots",
-      "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
-      "published": "2026-10-24T04:03:46.000Z",
+      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+      "published": "2026-10-24T09:34:32.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "published": "2026-10-24T00:05:45.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Met investigates reports of letter detailing claims about Meghan's father",
@@ -27,16 +15,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Australian MP's condition improves after alleged car attack",
-      "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "published": "2026-10-24T01:55:15.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "published": "2026-10-24T00:05:45.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
       "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
       "published": "2026-10-23T22:47:07.000Z",
       "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "published": "2026-10-24T09:03:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
@@ -45,10 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why is John Travolta's old luxury jet in a small Australian town?",
-      "summary": "The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.",
-      "published": "2026-10-23T21:19:17.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cmze483zj1zlo?at_medium=RSS&at_campaign=rss"
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+      "published": "2026-10-23T23:11:31.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+      "summary": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say.",
+      "published": "2026-10-23T23:15:47.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
