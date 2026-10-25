@@ -1,18 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-25T05:01:18.415Z",
+  "fetched": "2026-10-25T09:57:57.712Z",
   "items": [
-    {
-      "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
-      "published": "2026-10-25T01:32:00.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Meghan broke contact with father in letter citing abuse claims",
       "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
-      "published": "2026-10-25T01:44:19.000Z",
+      "published": "2026-10-25T08:05:31.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "published": "2026-10-25T09:00:00.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -21,34 +21,34 @@
       "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ukraine depends on Starlink - can Europe plug the gap?",
-      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
-      "published": "2026-10-24T23:00:08.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Budget to include £1bn for social and affordable housing",
-      "summary": "The move will take funding for the 10-year programme to more than £40bn.",
-      "published": "2026-10-25T02:57:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+      "published": "2026-10-25T06:00:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "published": "2026-10-25T04:16:52.000Z",
+      "published": "2026-10-25T09:32:59.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
-      "published": "2026-10-24T23:50:02.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "published": "2026-10-24T23:15:18.000Z",
+      "published": "2026-10-25T07:15:38.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why the charts are full of old songs - and so are your playlists",
+      "summary": "The chart is full is full of old music and classic songs are dominating streaming services. But why?",
+      "published": "2026-10-24T23:05:41.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Moment of jeopardy as King embarks on Caribbean tour",
+      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
+      "published": "2026-10-24T23:03:09.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
