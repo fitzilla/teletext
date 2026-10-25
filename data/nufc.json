@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-23T10:18:17.010Z",
+  "fetched": "2026-10-25T20:11:07.769Z",
   "items": [
+    {
+      "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+      "summary": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+      "published": "2026-10-25T19:59:46.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "What is going on at 'chaotic' Newcastle?",
       "summary": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?",
@@ -43,12 +49,6 @@
       "summary": "Former England striker Andy Carroll thanks the public for their support after speaking publicly about being sexually assaulted by a man.",
       "published": "2026-10-12T20:24:15.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqy8le93zg7jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'Without Hornicek we'd be in the relegation zone'",
-      "summary": "Newcastle fan speaks about the club's start to the season and who has over and underperformed.",
-      "published": "2026-10-01T09:16:29.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqrm9mv1k22lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
