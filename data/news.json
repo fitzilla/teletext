@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-26T18:06:28.831Z",
+  "fetched": "2026-10-26T22:48:08.924Z",
   "items": [
     {
       "title": "Independent review announced into murder of student Henry Nowak",
@@ -22,8 +22,8 @@
     },
     {
       "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-      "summary": "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-      "published": "2026-10-26T17:22:51.000Z",
+      "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "published": "2026-10-26T22:43:44.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -39,16 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+      "summary": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
+      "published": "2026-10-26T22:07:26.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "What is walking down the newly pedestrianised Oxford Street like?",
       "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
       "published": "2026-10-26T11:50:34.000Z",
       "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-      "published": "2026-10-26T14:16:09.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
