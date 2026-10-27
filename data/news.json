@@ -1,18 +1,36 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-26T22:48:08.924Z",
+  "fetched": "2026-10-27T01:44:54.386Z",
   "items": [
     {
-      "title": "Independent review announced into murder of student Henry Nowak",
-      "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
-      "published": "2026-10-26T16:15:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
+      "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+      "summary": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+      "published": "2026-10-26T23:10:59.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+      "summary": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+      "published": "2026-10-26T23:03:14.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "published": "2026-10-27T01:10:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Israel and the US are both going to the polls - the consequences will be global",
       "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
       "published": "2026-10-26T16:30:34.000Z",
       "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "published": "2026-10-26T19:27:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Drivers who killed mum and girl while racing jailed",
@@ -27,28 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
-      "published": "2026-10-26T15:37:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "published": "2026-10-26T16:27:17.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
-      "summary": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
-      "published": "2026-10-26T22:07:26.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What is walking down the newly pedestrianised Oxford Street like?",
-      "summary": "The first phase of the overhaul is expected to be finished by spring 2027.",
-      "published": "2026-10-26T11:50:34.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
