@@ -1,18 +1,36 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-27T07:05:40.651Z",
+  "fetched": "2026-10-27T13:26:06.828Z",
   "items": [
     {
-      "title": "Israel heads to polls for pivotal election defined by security and democracy",
-      "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
-      "published": "2026-10-27T05:45:08.000Z",
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increases",
+      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+      "published": "2026-10-27T13:18:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+      "summary": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
+      "published": "2026-10-27T12:50:14.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "published": "2026-10-27T11:11:33.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
-      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-      "published": "2026-10-27T06:49:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "published": "2026-10-27T10:17:36.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "published": "2026-10-27T12:02:20.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
@@ -21,34 +39,16 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "published": "2026-10-27T02:01:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
-      "published": "2026-10-27T05:05:15.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
-      "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
-      "published": "2026-10-27T04:13:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss"
+      "title": "I'm a single mum and limit my weekly shop to £40 - here's what I want from the Budget",
+      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "published": "2026-10-27T13:08:26.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
       "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
       "published": "2026-10-27T06:33:11.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-      "summary": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
-      "published": "2026-10-27T02:58:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
