@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-28T23:55:59.788Z",
+  "fetched": "2026-10-29T03:52:44.760Z",
   "items": [
     {
       "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
@@ -9,16 +9,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Budget key points at a glance",
-      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
-      "published": "2026-10-28T16:55:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-      "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
-      "published": "2026-10-28T16:52:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss"
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "published": "2026-10-29T00:00:25.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "High-speed train crash kills at least 68 people in Spain",
@@ -27,10 +21,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
-      "published": "2026-10-28T16:45:16.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss"
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "published": "2026-10-28T20:24:39.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "published": "2026-10-29T01:14:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
@@ -39,16 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "King Charles shows off dance moves on second day of Caribbean tour",
-      "summary": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
-      "published": "2026-10-28T21:58:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss"
+      "title": "Family row over George Michael items up for auction - including Faith guitar",
+      "summary": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
+      "published": "2026-10-29T00:01:16.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "published": "2026-10-28T20:24:39.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+      "title": "King Charles shows off dance moves on second day of Caribbean tour",
+      "summary": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
+      "published": "2026-10-29T01:41:36.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
