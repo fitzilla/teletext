@@ -1,30 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-29T03:52:44.760Z",
+  "fetched": "2026-10-29T10:35:59.288Z",
   "items": [
     {
-      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-      "summary": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-      "published": "2026-10-28T18:45:09.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+      "title": "What we know so far about deadly Spain train crash",
+      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+      "published": "2026-10-29T10:02:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-      "published": "2026-10-29T00:00:25.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "summary": "Poundland's bosses have filed a notice of intention to appoint administrators to the business.",
+      "published": "2026-10-29T10:14:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "published": "2026-10-28T21:38:54.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+      "title": "Ofcom sets out social media age-checking methods ahead of ban",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "published": "2026-10-29T09:31:44.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "published": "2026-10-28T20:24:39.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "summary": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+      "published": "2026-10-29T10:17:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Row over George Michael items up for auction - including Faith guitar",
+      "summary": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
+      "published": "2026-10-29T00:01:16.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Death of US actress Hayden Panettiere ruled accidental",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "published": "2026-10-28T21:16:30.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
@@ -33,22 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "published": "2026-10-28T21:16:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Family row over George Michael items up for auction - including Faith guitar",
-      "summary": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold.",
-      "published": "2026-10-29T00:01:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "King Charles shows off dance moves on second day of Caribbean tour",
-      "summary": "Earlier in the day, the King paid his respects to the island's fallen servicemen and women.",
-      "published": "2026-10-29T01:41:36.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd670vpj09o?at_medium=RSS&at_campaign=rss"
+      "title": "Europe's youth take to the streets - they feel locked out of a promising future",
+      "summary": "The last month has seen youth-driven demonstrations across Europe. What connects them?",
+      "published": "2026-10-29T00:33:11.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
