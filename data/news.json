@@ -1,11 +1,17 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-30T19:47:16.662Z",
+  "fetched": "2026-10-30T23:23:03.927Z",
   "items": [
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "published": "2026-10-30T22:20:52.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "published": "2026-10-30T17:39:43.000Z",
+      "published": "2026-10-30T21:13:14.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -15,10 +21,16 @@
       "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Driver guilty of hitting cyclist and dragging him to death under car",
-      "summary": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
-      "published": "2026-10-30T15:27:40.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss"
+      "title": "Celebrity Traitors comes to a climax in nail-biting final",
+      "summary": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers.",
+      "published": "2026-10-30T22:52:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "published": "2026-10-30T20:52:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
@@ -27,28 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
-      "summary": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
-      "published": "2026-10-30T15:39:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss"
+      "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+      "summary": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+      "published": "2026-10-30T15:27:40.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-      "published": "2026-10-30T17:07:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
-      "summary": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
-      "published": "2026-10-30T15:49:25.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "published": "2026-10-30T11:23:06.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "published": "2026-10-30T22:11:52.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
