@@ -1,11 +1,11 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-30T23:23:03.927Z",
+  "fetched": "2026-10-31T02:35:02.481Z",
   "items": [
     {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "published": "2026-10-30T22:20:52.000Z",
+      "published": "2026-10-31T00:40:43.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -22,21 +22,15 @@
     },
     {
       "title": "Celebrity Traitors comes to a climax in nail-biting final",
-      "summary": "The second series of the hit series reached its climax on Friday after attracting 15 million viewers.",
-      "published": "2026-10-30T22:52:33.000Z",
+      "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+      "published": "2026-10-31T02:18:59.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Police deployed during stand-off over control of top Poland court",
       "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "published": "2026-10-30T20:52:01.000Z",
+      "published": "2026-10-31T01:11:43.000Z",
       "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "published": "2026-10-30T16:26:11.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Driver guilty of hitting cyclist and dragging him to death under car",
@@ -49,6 +43,12 @@
       "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
       "published": "2026-10-30T22:11:52.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why MPs keep talking about an early election despite Burnham's denials",
+      "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster.",
+      "published": "2026-10-31T00:00:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
