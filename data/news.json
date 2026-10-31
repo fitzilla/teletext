@@ -1,24 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-10-31T19:25:28.014Z",
+  "fetched": "2026-10-31T22:39:34.334Z",
   "items": [
     {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "published": "2026-10-31T17:53:35.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "published": "2026-10-31T19:22:26.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "published": "2026-10-31T16:55:47.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Healey risks breaking minimum wage promise for younger workers",
+      "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
       "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
       "published": "2026-10-31T17:26:29.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "published": "2026-10-31T21:29:01.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
@@ -28,8 +28,8 @@
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "published": "2026-10-31T16:32:08.000Z",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "published": "2026-10-31T22:11:45.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -39,16 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Why did this Korean content creator throw a divorce ceremony?",
+      "summary": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
+      "published": "2026-10-31T22:01:39.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
       "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
       "published": "2026-10-31T00:16:03.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-      "published": "2026-10-30T23:26:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
