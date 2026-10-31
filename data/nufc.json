@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-10-30T14:42:49.639Z",
+  "fetched": "2026-10-31T09:06:40.586Z",
   "items": [
+    {
+      "title": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+      "summary": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
+      "published": "2026-10-31T06:23:58.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "'Consistently inconsistent'. Can Newcastle turn it around?",
       "summary": "Newcastle fan Raul Kohli shares his views on the club's lack of clinicality after their Carabao Cup clash with Everton.",
@@ -43,12 +49,6 @@
       "summary": "A free exhibition is to be held at the Baltic Centre for Contemporary Art next week.",
       "published": "2026-10-22T15:47:20.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cmze469l14wjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Webb backs VAR over Botman challenge on Jackson",
-      "summary": "Premier League referees' chief Howard Webb says Sven Botman's challenge on Nicolas Jackson was a \"high-end reckless challenge\" but backed the video assistant referee's decision not to intervene for a red card.",
-      "published": "2026-10-20T16:56:53.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
