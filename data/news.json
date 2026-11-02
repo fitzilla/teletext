@@ -1,18 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-01T23:14:56.632Z",
+  "fetched": "2026-11-02T02:38:41.607Z",
   "items": [
-    {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-      "published": "2026-11-01T22:38:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
-    },
     {
       "title": "Five teenagers stabbed at Halloween party",
       "summary": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
       "published": "2026-11-01T15:01:31.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "published": "2026-11-01T23:15:56.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
@@ -21,34 +21,34 @@
       "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
-      "summary": "His family describe the night police told them of his death, and watching him being handcuffed.",
-      "published": "2026-11-01T17:53:55.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss"
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "published": "2026-11-02T01:45:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "published": "2026-11-02T00:25:12.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+      "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+      "published": "2026-11-01T23:20:54.000Z",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "A&E warning system to flag sick children deteriorating quickly",
+      "summary": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care.",
+      "published": "2026-11-02T00:51:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
       "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
       "published": "2026-11-01T21:18:12.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
-      "summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
-      "published": "2026-11-01T22:57:02.000Z",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-      "summary": "The former European 1500m champion had bowel cancer and died just three weeks after marrying her partner.",
-      "published": "2026-11-01T22:44:47.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-      "published": "2026-11-01T21:16:45.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
