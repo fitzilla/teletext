@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-03T17:57:01.545Z",
+  "fetched": "2026-11-03T22:51:07.611Z",
   "items": [
     {
       "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
@@ -9,16 +9,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "published": "2026-11-03T17:56:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "published": "2026-11-03T22:45:59.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
       "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-      "published": "2026-11-03T17:04:02.000Z",
+      "published": "2026-11-03T20:38:38.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "published": "2026-11-03T20:42:47.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
@@ -27,28 +33,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "How 'mogging' went from toxic term to mainstream",
+      "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
+      "published": "2026-11-03T17:41:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial.",
+      "published": "2026-11-03T20:05:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
       "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
       "published": "2026-11-03T16:57:41.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'My necklace gave me a rash': Silver jewellery found to contain toxic chemicals",
-      "summary": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
-      "published": "2026-11-03T16:13:45.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "published": "2026-11-03T16:19:29.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Spanish footballer dies after collision with goalkeeper during match",
-      "summary": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
-      "published": "2026-11-03T09:09:18.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
