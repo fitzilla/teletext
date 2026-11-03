@@ -1,10 +1,16 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-03T02:31:17.772Z",
+  "fetched": "2026-11-03T10:19:27.708Z",
   "items": [
     {
+      "title": "'Jaissle has to own up to his mistakes'",
+      "summary": "Newcastle fan Raul Kohli has criticised Matthias Jaissle's summer transfers and lamented the departure of Nick Woltemade",
+      "published": "2026-11-03T09:10:17.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck62ye60zzl6o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-      "summary": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle after his side were booed off the pitch by their own fans following another defeat.",
+      "summary": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
       "published": "2026-11-02T23:53:46.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss"
     },
@@ -43,12 +49,6 @@
       "summary": "Keegan will become the first person to be posthumously awarded Newcastle’s Freedom of the City.",
       "published": "2026-10-27T17:00:20.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw4g1jv2nn1jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Who has made Troy's Premier League team of the week?",
-      "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "published": "2026-10-25T22:16:14.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
