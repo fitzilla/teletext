@@ -1,54 +1,54 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-03T10:19:27.587Z",
+  "fetched": "2026-11-03T17:57:01.545Z",
   "items": [
     {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-      "published": "2026-11-03T09:55:47.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+      "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+      "published": "2026-11-03T10:32:56.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "published": "2026-11-03T17:56:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+      "published": "2026-11-03T17:04:02.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+      "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
+      "published": "2026-11-03T16:34:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "published": "2026-11-03T16:57:41.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'My necklace gave me a rash': Silver jewellery found to contain toxic chemicals",
+      "summary": "An investigation by Watchdog analysed 25 items bought from Amazon, Etsy, Temu, eBay and OnBuy.",
+      "published": "2026-11-03T16:13:45.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "published": "2026-11-03T16:19:29.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Spanish footballer dies after collision with goalkeeper during match",
-      "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+      "summary": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
       "published": "2026-11-03T09:09:18.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-      "published": "2026-11-03T03:39:08.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Mahmood refuses to detail cost of revised settlement plans",
-      "summary": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.",
-      "published": "2026-11-03T09:31:25.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
-      "summary": "Researchers have detected signals from the smallest distances ever probed.",
-      "published": "2026-11-03T06:01:23.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: Just how small is the zeptoverse?",
-      "summary": "BBC science correspondent, Pallab Ghosh, takes us into the zeptoverse and explains how it could change our ideas of how the universe works.",
-      "published": "2026-11-03T07:33:41.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cwdr8veexkrzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
-      "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.",
-      "published": "2026-11-03T01:52:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK also affected by cyber-attack which hit European supermarket fridges",
-      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-      "published": "2026-11-03T09:43:44.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
