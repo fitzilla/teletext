@@ -1,12 +1,36 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-03T22:51:07.611Z",
+  "fetched": "2026-11-04T02:49:59.418Z",
   "items": [
     {
-      "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
-      "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
-      "published": "2026-11-03T10:32:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+      "published": "2026-11-04T02:38:07.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US voters name economy and state of democracy as top issues, poll says",
+      "summary": "A major election day survey suggests voters are the most unhappy with the economy.",
+      "published": "2026-11-04T02:47:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "When will we know the results?",
+      "summary": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
+      "published": "2026-11-04T00:56:05.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The key US Senate races to watch",
+      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
+      "published": "2026-11-03T10:16:56.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+      "summary": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
+      "published": "2026-11-04T02:14:45.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Spanish transport minister resigns days after deadly train crash",
@@ -15,40 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-      "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
-      "published": "2026-11-03T20:38:38.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-      "published": "2026-11-03T20:42:47.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss"
+      "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+      "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
+      "published": "2026-11-04T00:04:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
       "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
       "published": "2026-11-03T16:34:33.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "How 'mogging' went from toxic term to mainstream",
-      "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse.",
-      "published": "2026-11-03T17:41:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
-      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial.",
-      "published": "2026-11-03T20:05:21.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "published": "2026-11-03T16:57:41.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
