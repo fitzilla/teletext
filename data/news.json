@@ -1,30 +1,36 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-04T02:49:59.418Z",
+  "fetched": "2026-11-04T10:12:28.240Z",
   "items": [
     {
-      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
-      "published": "2026-11-04T02:38:07.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss"
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+      "published": "2026-11-04T06:53:56.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US voters name economy and state of democracy as top issues, poll says",
-      "summary": "A major election day survey suggests voters are the most unhappy with the economy.",
-      "published": "2026-11-04T02:47:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+      "summary": "He wrote on Truth Social that Republicans would have won \"in a landslide\" if his name had been on the ballot.",
+      "published": "2026-11-04T09:57:44.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "When will we know the results?",
-      "summary": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
-      "published": "2026-11-04T00:56:05.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss"
+      "title": "How America voted in maps and charts",
+      "summary": "See the maps and charts that show how America voted in the US midterm elections.",
+      "published": "2026-11-04T09:53:18.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The key US Senate races to watch",
-      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide.",
-      "published": "2026-11-03T10:16:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss"
+      "title": "Key moments from a night of midterm election firsts",
+      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+      "published": "2026-11-04T09:01:40.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race",
+      "summary": "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.",
+      "published": "2026-11-04T10:03:19.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
@@ -33,22 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Spanish transport minister resigns days after deadly train crash",
-      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-      "published": "2026-11-03T22:45:59.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
       "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
       "published": "2026-11-04T00:04:28.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-      "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
-      "published": "2026-11-03T16:34:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss"
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+      "published": "2026-11-04T01:36:06.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
