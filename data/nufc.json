@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-03T10:19:27.708Z",
+  "fetched": "2026-11-05T20:25:02.133Z",
   "items": [
+    {
+      "title": "Good to feel club are committed to me - Jaissle",
+      "summary": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
+      "published": "2026-11-05T17:25:41.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "'Jaissle has to own up to his mistakes'",
       "summary": "Newcastle fan Raul Kohli has criticised Matthias Jaissle's summer transfers and lamented the departure of Nick Woltemade",
@@ -43,12 +49,6 @@
       "summary": "League Two side Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the Carabao Cup after they stunned Premier League champions Arsenal on penalties.",
       "published": "2026-10-29T10:25:01.000Z",
       "link": "https://www.bbc.co.uk/sport/football/videos/cwly4dpd5p9qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Kevin Keegan awarded Newcastle's highest honour",
-      "summary": "Keegan will become the first person to be posthumously awarded Newcastle’s Freedom of the City.",
-      "published": "2026-10-27T17:00:20.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1jv2nn1jo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
