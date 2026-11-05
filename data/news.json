@@ -1,54 +1,54 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-05T04:25:14.075Z",
+  "fetched": "2026-11-05T12:36:52.605Z",
   "items": [
     {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "title": "Three ways the interest rate rise could affect you",
+      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+      "published": "2026-11-05T12:11:04.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+      "summary": "Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested in \"distinctive new programming\".",
+      "published": "2026-11-05T12:26:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
       "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
       "published": "2026-11-05T03:47:56.000Z",
       "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK commits to 'time-bound' talks on slavery apology",
-      "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
-      "published": "2026-11-05T02:17:18.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss"
+      "title": "Could this be the last Bonfire Night for noisy fireworks?",
+      "summary": "About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays.",
+      "published": "2026-11-05T12:04:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The NHS is relying more on charities - and that might be creating problems for patients",
-      "summary": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
-      "published": "2026-11-05T00:12:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
-      "published": "2026-11-05T03:56:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Interest rates expected to rise for first time in over three years",
-      "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
-      "published": "2026-11-05T00:00:09.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "published": "2026-11-04T23:12:47.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss"
+      "title": "Cristiano Ronaldo retires from international football",
+      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "published": "2026-11-05T12:28:01.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Pound rises to its highest level since the Brexit referendum",
-      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago.",
       "published": "2026-11-05T04:21:35.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
-      "summary": "The wider risk to the UK public from the deadly virus remains low, a government spokesperson says.",
-      "published": "2026-11-04T18:34:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss"
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+      "published": "2026-11-05T11:21:35.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "published": "2026-11-05T10:33:21.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
