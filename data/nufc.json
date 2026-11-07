@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-06T16:04:03.679Z",
+  "fetched": "2026-11-07T19:13:09.566Z",
   "items": [
+    {
+      "title": "Keegan tribute display sees thousands of visitors",
+      "summary": "It is made of hundreds of shirts left outside Newcastle's stadium following Kevin Keegan's death.",
+      "published": "2026-11-07T16:33:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c9rky3k04022o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Newcastle's Dedic stopped by police after being spotted with bow and arrows",
       "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
@@ -43,12 +49,6 @@
       "summary": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
       "published": "2026-10-31T06:23:58.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'Consistently inconsistent'. Can Newcastle turn it around?",
-      "summary": "Newcastle fan Raul Kohli shares his views on the club's lack of clinicality after their Carabao Cup clash with Everton.",
-      "published": "2026-10-30T10:35:57.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqy8l2njzxd8o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
