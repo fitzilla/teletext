@@ -1,12 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-07T01:28:28.688Z",
+  "fetched": "2026-11-07T07:36:19.408Z",
   "items": [
     {
-      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-      "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "published": "2026-11-06T21:26:56.000Z",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "published": "2026-11-07T07:27:44.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "published": "2026-11-06T23:24:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
@@ -15,40 +21,34 @@
       "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-      "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
-      "published": "2026-11-06T12:16:44.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss"
+      "title": "Paraguay's president impeached after collapse of bank",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "published": "2026-11-07T07:20:00.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "published": "2026-11-06T23:24:15.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+      "summary": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+      "published": "2026-11-07T00:31:54.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "published": "2026-11-06T15:25:35.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+      "summary": "It was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
+      "published": "2026-11-07T05:12:52.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Harry and five others seek to challenge Mail publisher privacy ruling",
-      "summary": "The Duke of Sussex and other public figures lost a High Court case against the publisher of the Daily Mail and Mail on Sunday.",
-      "published": "2026-11-06T19:51:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss"
+      "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
+      "summary": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
+      "published": "2026-11-07T06:04:32.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Child, 6, dies weeks after Waterford arson attack",
-      "summary": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
-      "published": "2026-11-06T21:53:38.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "published": "2026-11-06T15:02:03.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss"
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "published": "2026-11-07T06:59:48.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
