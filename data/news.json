@@ -1,7 +1,13 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-06T21:40:44.492Z",
+  "fetched": "2026-11-07T01:28:28.688Z",
   "items": [
+    {
+      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+      "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "published": "2026-11-06T21:26:56.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
       "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
@@ -15,10 +21,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-      "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
-      "published": "2026-11-06T20:11:45.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss"
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "published": "2026-11-06T23:24:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "New wave of bomb threats hit European airlines",
@@ -33,22 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c8p3gg2ex4wlo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Child, 6, dies weeks after Waterford arson attack",
+      "summary": "The attack happened last month at the family home on the outskirts of Waterford in the Republic of Ireland.",
+      "published": "2026-11-06T21:53:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "published": "2026-11-06T15:02:03.000Z",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-      "summary": "Two schools went into lockdown following the incident and one woman has been arrested.",
-      "published": "2026-11-06T18:58:39.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
-      "published": "2026-11-06T17:44:02.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
