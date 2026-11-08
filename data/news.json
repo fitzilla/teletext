@@ -1,12 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-08T01:57:31.988Z",
+  "fetched": "2026-11-08T08:35:58.013Z",
   "items": [
     {
-      "title": "Briton among six killed in 'far-right' shooting in Krakow",
-      "summary": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
-      "published": "2026-11-08T00:55:17.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss"
+      "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+      "summary": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+      "published": "2026-11-08T03:34:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Royal Family join veterans and families at Festival of Remembrance",
+      "summary": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
+      "published": "2026-11-08T01:24:58.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
+      "summary": "The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.",
+      "published": "2026-11-08T04:09:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -21,34 +33,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "My parents chose to die together and I was left to grieve alone",
+      "summary": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child.",
+      "published": "2026-11-08T01:10:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
       "summary": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
       "published": "2026-11-07T17:32:42.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "summary": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
-      "published": "2026-11-08T00:31:53.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Royal Family join veterans and families at Festival of Remembrance",
-      "summary": "The senior royals attended the annual event at London's Royal Albert Hall on the eve of Remembrance Sunday.",
-      "published": "2026-11-08T01:24:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Gaza wedding festival sees 250 couples married at the same time",
-      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "published": "2026-11-07T17:58:41.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "My parents chose to die together and I was left to grieve alone",
-      "summary": "Jan and Els sought medical intervention to end their lives together after 50 happy years of marriage, leaving behind their only child.",
-      "published": "2026-11-08T01:10:21.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss"
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is fading",
+      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "published": "2026-11-07T23:02:35.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
