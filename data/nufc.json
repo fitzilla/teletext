@@ -1,7 +1,19 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-07T22:51:33.932Z",
+  "fetched": "2026-11-08T15:41:10.834Z",
   "items": [
+    {
+      "title": "Alvaro Arbeloa post-match interview - Fulham v Newcastle",
+      "summary": "Fulham head coach Alvaro Arbeloa's post-match interview after his side drew to Newcastle.",
+      "published": "2026-11-08T12:22:03.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c8y56xy2qqwqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Matthias Jaissle post-match interview - Fulham v Newcastle",
+      "summary": "Newcastle head coach Matthias Jaissle's post-match interview as his side drew to Fulham.",
+      "published": "2026-11-08T12:15:51.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckpdgwqppqpzo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
       "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
@@ -37,18 +49,6 @@
       "summary": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
       "published": "2026-11-02T23:53:46.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Toon Army turn against team",
-      "summary": "Newcastle are 13th in the Premier League table and seriously out of form, with four defeats from their past five games in all competitions.",
-      "published": "2026-11-02T23:14:43.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3dxw8yrwr5no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Who produced the kind of performance Moyes loves? - player ratings",
-      "summary": "Newcastle United and Everton's players rated following their Premier League match.",
-      "published": "2026-11-02T22:08:43.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmglwjxx45gjo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
