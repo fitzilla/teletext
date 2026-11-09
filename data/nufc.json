@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-08T15:41:10.834Z",
+  "fetched": "2026-11-09T22:35:23.035Z",
   "items": [
+    {
+      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+      "published": "2026-11-09T14:34:19.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Alvaro Arbeloa post-match interview - Fulham v Newcastle",
       "summary": "Fulham head coach Alvaro Arbeloa's post-match interview after his side drew to Newcastle.",
@@ -43,12 +49,6 @@
       "summary": "Newcastle fan Raul Kohli has criticised Matthias Jaissle's summer transfers and lamented the departure of Nick Woltemade",
       "published": "2026-11-03T09:10:17.000Z",
       "link": "https://www.bbc.co.uk/sport/football/videos/ck62ye60zzl6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-      "summary": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle as his side are booed off the pitch by fans following another defeat.",
-      "published": "2026-11-02T23:53:46.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
