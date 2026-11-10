@@ -1,12 +1,18 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-09T22:35:23.035Z",
+  "fetched": "2026-11-10T12:51:09.817Z",
   "items": [
     {
       "title": "Incident-by-incident: Was it a bad weekend for VAR?",
       "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
       "published": "2026-11-09T14:34:19.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burn replaces injured Guehi in England squad",
+      "summary": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
+      "published": "2026-11-09T12:06:19.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Alvaro Arbeloa post-match interview - Fulham v Newcastle",
@@ -43,12 +49,6 @@
       "summary": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
       "published": "2026-11-05T17:25:41.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'Jaissle has to own up to his mistakes'",
-      "summary": "Newcastle fan Raul Kohli has criticised Matthias Jaissle's summer transfers and lamented the departure of Nick Woltemade",
-      "published": "2026-11-03T09:10:17.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ck62ye60zzl6o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
