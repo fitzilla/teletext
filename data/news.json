@@ -1,18 +1,12 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-11T00:44:10.321Z",
+  "fetched": "2026-11-11T07:23:04.459Z",
   "items": [
     {
-      "title": "US Army soldier suspected of spying for Russia arrested in UK",
-      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
-      "published": "2026-11-10T20:20:04.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-      "summary": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
-      "published": "2026-11-10T20:20:11.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss"
+      "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+      "summary": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
+      "published": "2026-11-11T04:03:25.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
@@ -21,34 +15,40 @@
       "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
-      "published": "2026-11-10T22:17:45.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "published": "2026-11-11T01:01:20.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "published": "2026-11-11T00:38:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+      "title": "Acquitted 'China spy': I was fall guy for security services",
+      "summary": "Thousands of messages seen by BBC show how a Chinese official sought details of sensitive political matters.",
+      "published": "2026-11-11T06:00:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-      "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-      "published": "2026-11-10T17:00:11.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+      "title": "Temperatures to dip to -5C as first cold health alerts of season issued",
+      "summary": "The most widespread frost of the season so far is forecast for many parts of the country. BBC Weather's Tomasz Schafernaker reports.",
+      "published": "2026-11-11T07:08:32.000Z",
+      "link": "https://www.bbc.co.uk/weather/articles/crq5n5148p7po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Train attack driver's '10 seconds' to change line",
-      "summary": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
-      "published": "2026-11-10T18:54:35.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss"
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "published": "2026-11-10T20:20:04.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "published": "2026-11-10T16:19:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
+      "title": "Prince George's artwork featured in Country Life magazine",
+      "summary": "The Prince of Wales features his 13-year-old son's drawing of a bird as part of a special edition of the magazine.",
+      "published": "2026-11-11T00:46:28.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+      "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
+      "published": "2026-11-11T00:17:42.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

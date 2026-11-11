@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-10T12:51:09.817Z",
+  "fetched": "2026-11-11T07:23:04.515Z",
   "items": [
+    {
+      "title": "Fans 'deserve better' than Derby bubble policing",
+      "summary": "December's Tyne-Wear derby is designated a bubble fixture, severely restricting fan movement.",
+      "published": "2026-11-11T06:11:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jrwrx2r4vjo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Incident-by-incident: Was it a bad weekend for VAR?",
       "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
@@ -43,12 +49,6 @@
       "summary": "Newcastle United defender Amar Dedic is at the centre of a police investigation after being spotted carrying a bow and arrows at a Northumberland beauty spot.",
       "published": "2026-11-06T11:16:07.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmpwggy2gz0eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Good to feel club are committed to me - Jaissle",
-      "summary": "Newcastle United manager Matthias Jaissle says he has \"got more of a feeling from within the club\" about how \"committed\" they are to him amid his side's struggling form.",
-      "published": "2026-11-05T17:25:41.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8y56z50k95xo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
