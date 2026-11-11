@@ -1,24 +1,36 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-10T20:06:56.917Z",
+  "fetched": "2026-11-11T00:44:10.321Z",
   "items": [
     {
-      "title": "Senior US soldier arrested by UK counter-terror police",
-      "summary": "The 41-year-old was arrested on suspicion of offences under the National Security Act which relate to Russia, police say.",
-      "published": "2026-11-10T19:34:48.000Z",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "published": "2026-11-10T20:20:04.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "David Walliams accused of sexual misconduct after losing injunction bid",
       "summary": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
-      "published": "2026-11-10T18:43:43.000Z",
+      "published": "2026-11-10T20:20:11.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: What we know about the allegations against Walliams",
-      "summary": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
-      "published": "2026-11-10T19:35:17.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss"
+      "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+      "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+      "published": "2026-11-10T22:41:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "published": "2026-11-10T22:17:45.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "published": "2026-11-11T00:38:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
@@ -27,28 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-      "published": "2026-11-10T16:19:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Train attack driver's '10 seconds' to change line",
       "summary": "Andrew Johnson tells jurors he heard over the intercom \"'there's a knifeman stabbing people'\".",
       "published": "2026-11-10T18:54:35.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynyzje424o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Meghan's first public appearance since father arrested",
-      "summary": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety.",
-      "published": "2026-11-10T11:57:14.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "published": "2026-11-10T15:10:20.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+      "published": "2026-11-10T16:19:48.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
