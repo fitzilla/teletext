@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-13T17:27:06.562Z",
+  "fetched": "2026-11-13T22:45:55.297Z",
   "items": [
     {
       "title": "Police investigating David Walliams over reports alleging serious sexual offences",
@@ -9,22 +9,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "published": "2026-11-13T17:12:46.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+      "published": "2026-11-13T22:12:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Former Hamas bodyguard guilty of UK knife attack",
-      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-      "published": "2026-11-13T15:51:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-      "summary": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found.",
-      "published": "2026-11-13T14:45:19.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "published": "2026-11-13T21:14:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
@@ -33,22 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-      "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation.",
-      "published": "2026-11-13T14:34:21.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss"
+      "title": "Former Hamas bodyguard guilty of UK knife attack",
+      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+      "published": "2026-11-13T15:51:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "More women make allegations against Russell Brand",
-      "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
-      "published": "2026-11-13T12:14:17.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss"
+      "title": "New campaign against EU membership launches ahead of UK-EU summit",
+      "summary": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
+      "published": "2026-11-13T21:39:46.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-      "published": "2026-11-13T12:22:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
+      "summary": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found.",
+      "published": "2026-11-13T14:45:19.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Man jailed for grooming at least 70 girls online",
+      "summary": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
+      "published": "2026-11-13T17:10:27.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
