@@ -1,54 +1,54 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-14T02:51:24.207Z",
+  "fetched": "2026-11-14T09:42:33.994Z",
   "items": [
     {
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+      "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+      "published": "2026-11-14T09:05:48.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What we know about the US ground stop and what to do if your flight is affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "published": "2026-11-14T07:42:11.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "published": "2026-11-14T05:52:31.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "published": "2026-11-14T06:42:27.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Cruise ship left on its side after collision with tanker on Mississippi",
       "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
       "published": "2026-11-13T23:40:45.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-      "published": "2026-11-13T22:12:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+      "title": "Widespread frost and freezing fog as cold health alerts continue",
+      "summary": "It's a weekend of two halves with a cold start on Saturday giving way to wetter and milder day on Sunday.",
+      "published": "2026-11-14T08:28:50.000Z",
+      "link": "https://www.bbc.co.uk/weather/articles/cqlyml59mdj0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "published": "2026-11-14T02:47:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+      "summary": "These stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+      "published": "2026-11-14T00:29:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-      "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
-      "published": "2026-11-13T16:53:50.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-      "published": "2026-11-14T00:01:01.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-      "published": "2026-11-13T22:37:30.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "published": "2026-11-13T21:14:22.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "published": "2026-11-13T16:40:31.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "summary": "The next title in the series is expected to be the biggest video game release ever.",
+      "published": "2026-11-14T00:37:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
