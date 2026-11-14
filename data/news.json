@@ -1,7 +1,25 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-13T22:45:55.297Z",
+  "fetched": "2026-11-14T02:51:24.207Z",
   "items": [
+    {
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "published": "2026-11-13T23:40:45.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+      "published": "2026-11-13T22:12:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "published": "2026-11-14T02:47:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Police investigating David Walliams over reports alleging serious sexual offences",
       "summary": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
@@ -9,10 +27,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-      "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
-      "published": "2026-11-13T22:12:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss"
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "published": "2026-11-14T00:01:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+      "published": "2026-11-13T22:37:30.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -25,30 +49,6 @@
       "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
       "published": "2026-11-13T16:40:31.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Former Hamas bodyguard guilty of UK knife attack",
-      "summary": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
-      "published": "2026-11-13T15:51:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "New campaign against EU membership launches ahead of UK-EU summit",
-      "summary": "The launch of Stay Out comes as Andy Burnham prepares for talks with European leaders next week.",
-      "published": "2026-11-13T21:39:46.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6174l2q99ejo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
-      "summary": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found.",
-      "published": "2026-11-13T14:45:19.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man jailed for grooming at least 70 girls online",
-      "summary": "Bilal Kazi targeted his victims - aged between 10 and 17 - using Snapchat, Wink and Roblox.",
-      "published": "2026-11-13T17:10:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
