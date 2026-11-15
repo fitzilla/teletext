@@ -1,11 +1,11 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-15T14:54:04.778Z",
+  "fetched": "2026-11-15T20:04:29.869Z",
   "items": [
     {
       "title": "Staggered age of consent to be discussed after Brand case, minister says",
       "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
-      "published": "2026-11-15T13:31:39.000Z",
+      "published": "2026-11-15T17:15:46.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -13,6 +13,12 @@
       "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
       "published": "2026-11-15T12:38:28.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "published": "2026-11-15T19:32:39.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
@@ -27,28 +33,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "published": "2026-11-15T13:42:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "published": "2026-11-15T18:38:11.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-      "summary": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
-      "published": "2026-11-15T00:09:29.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss"
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "published": "2026-11-15T19:20:53.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "published": "2026-11-14T22:09:40.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Judo champion shakes up French presidential race with surprise candidacy",
-      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-      "published": "2026-11-15T00:06:51.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss"
+      "title": "Trident submarine returns home after record-breaking undersea patrol",
+      "summary": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel.",
+      "published": "2026-11-15T17:00:50.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
