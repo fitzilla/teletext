@@ -1,12 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-16T00:06:48.372Z",
+  "fetched": "2026-11-16T06:58:57.907Z",
   "items": [
     {
-      "title": "Staggered age of consent to be discussed after Brand case, minister says",
-      "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
-      "published": "2026-11-15T17:15:46.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss"
+      "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
+      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "published": "2026-11-15T22:30:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+      "summary": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
+      "published": "2026-11-16T06:56:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+      "summary": "Most of the engagements the royal couple will attend are related to the Earthshot Prize, which Prince William founded.",
+      "published": "2026-11-16T02:53:15.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -15,40 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-      "published": "2026-11-15T22:00:13.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "published": "2026-11-15T22:00:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
-      "published": "2026-11-15T22:30:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Trident submarine returns home after record-breaking undersea patrol",
       "summary": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel.",
       "published": "2026-11-15T21:48:10.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-      "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
-      "published": "2026-11-15T12:38:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss"
+      "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
+      "summary": "As a landmark report is published, the BBC speaks to school avoiders and those trying to fix the issue.",
+      "published": "2026-11-16T06:01:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
-      "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders.",
-      "published": "2026-11-15T22:23:57.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss"
+      "title": "'It felt like I was dying': Why some teenagers don't go to school",
+      "summary": "Teenagers speak to the BBC about struggling with school anxiety ahead of a landmark report on youth unemployment.",
+      "published": "2026-11-16T06:02:44.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cqe9kgegd2y4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "published": "2026-11-15T22:00:13.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
