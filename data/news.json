@@ -1,30 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-16T16:51:23.819Z",
+  "fetched": "2026-11-17T00:36:37.386Z",
   "items": [
     {
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "summary": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-      "published": "2026-11-16T15:31:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "published": "2026-11-16T22:32:47.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-      "published": "2026-11-16T13:19:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
+      "title": "The young people caught up in Britain's Neets crisis",
+      "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
+      "published": "2026-11-17T00:06:34.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "published": "2026-11-16T19:43:58.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Cass report author says she does not support draft conversion practices bill",
+      "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
+      "published": "2026-11-16T22:08:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
       "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "published": "2026-11-16T15:45:23.000Z",
+      "published": "2026-11-16T19:30:30.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
-      "summary": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
-      "published": "2026-11-16T11:27:53.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss"
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "published": "2026-11-16T20:33:57.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
@@ -33,22 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Street cricket and metro ride as Prince and Princess of Wales visit India",
-      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "published": "2026-11-16T15:08:59.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "published": "2026-11-16T16:27:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Yellow weather warnings issued for snow as temperatures plummet",
-      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-      "published": "2026-11-16T10:02:04.000Z",
-      "link": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss"
+      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
+      "published": "2026-11-17T00:09:54.000Z",
+      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
