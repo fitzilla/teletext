@@ -1,12 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-17T08:43:27.822Z",
+  "fetched": "2026-11-17T18:01:58.412Z",
   "items": [
     {
-      "title": "The young people caught up in Britain's Neets crisis",
-      "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-      "published": "2026-11-17T00:06:34.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss"
+      "title": "At a glance: Key proposals from Milburn's Neets report",
+      "summary": "A major review proposes widespread changes to help get young people into work across the UK.",
+      "published": "2026-11-17T11:31:40.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "published": "2026-11-17T17:42:26.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "published": "2026-11-17T16:56:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "published": "2026-11-17T15:54:15.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "published": "2026-11-17T14:09:19.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "summary": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
+      "published": "2026-11-17T17:25:23.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "How Met failed to stop rape-unit detective who abused women",
@@ -15,40 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-      "summary": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-      "published": "2026-11-17T07:10:08.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Cass report author says she does not support draft conversion practices bill",
-      "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-      "published": "2026-11-16T22:08:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-      "published": "2026-11-17T08:06:32.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-      "published": "2026-11-17T08:01:38.000Z",
-      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Failed asylum seekers face removal without five-day notice period",
-      "summary": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-      "published": "2026-11-17T01:24:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "published": "2026-11-17T05:59:01.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "published": "2026-11-17T17:41:49.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
