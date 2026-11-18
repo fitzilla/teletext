@@ -1,30 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-18T01:06:05.666Z",
+  "fetched": "2026-11-18T08:46:02.350Z",
   "items": [
     {
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
-      "published": "2026-11-17T18:43:05.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham promises to 'move quickly' on Neets report",
+      "summary": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people.",
+      "published": "2026-11-18T06:00:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
-      "summary": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
-      "published": "2026-11-17T22:51:15.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss"
+      "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
+      "summary": "There is hope his Neets report has created a case on benefits which MPs can back, writes political editor Chris Mason.",
+      "published": "2026-11-18T06:00:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "published": "2026-11-18T00:28:01.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+      "title": "What's gone wrong at Britain's worst bathing site?",
+      "summary": "The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.",
+      "published": "2026-11-18T06:12:44.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "published": "2026-11-17T22:46:30.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss"
+      "title": "Home secretary plans to tackle 'perception of two-tier policing'",
+      "summary": "Shabana Mahmood will announce stronger guidance on police impartiality.",
+      "published": "2026-11-17T22:31:32.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Harry Styles, Cher, Sam Fender and Billie Eilish to headline Glastonbury 2027",
+      "summary": "The festival will also host Cher in the Sunday \"legends\" slot, the unofficial fourth headline set.",
+      "published": "2026-11-18T07:59:54.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "AI used to find security flaw in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "published": "2026-11-18T05:33:13.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
@@ -33,22 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-      "published": "2026-11-17T23:02:12.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
       "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
       "published": "2026-11-18T00:44:48.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Largest British study to check social media ban's effect on youth mental health",
-      "summary": "Ten different research teams will look at how well teenagers are coping without social media.",
-      "published": "2026-11-18T00:49:31.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
