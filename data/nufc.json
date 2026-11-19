@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-13T17:27:06.683Z",
+  "fetched": "2026-11-19T22:31:30.858Z",
   "items": [
+    {
+      "title": "'I tried my best' - Jaissle on attempt to keep Guimaraes",
+      "summary": "Newcastle United manager Matthias Jaissle says he \"tried his best\" to keep Bruno Guimaraes at the club as the Brazilian returns to St James' Park on Saturday in an Arsenal shirt.",
+      "published": "2026-11-19T17:44:23.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmwy8ep46zgno?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Newcastle fan explains club's 'litany of problems'",
       "summary": "Newcastle fan Raul Kohli isn't happy with signings made during the last two seasons",
@@ -43,12 +49,6 @@
       "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
       "published": "2026-11-07T19:59:37.000Z",
       "link": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Keegan tribute display sees thousands of visitors",
-      "summary": "It is made of hundreds of shirts left outside Newcastle's stadium following Kevin Keegan's death.",
-      "published": "2026-11-07T16:33:33.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9rky3k04022o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
