@@ -1,18 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-19T22:31:30.686Z",
+  "fetched": "2026-11-20T03:49:50.760Z",
   "items": [
     {
       "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-      "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it.\"",
-      "published": "2026-11-19T22:17:29.000Z",
+      "summary": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
+      "published": "2026-11-20T01:12:45.000Z",
       "link": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "published": "2026-11-19T21:38:42.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "published": "2026-11-20T00:02:07.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK-EU mobility scheme to benefit up to 200,000 young people a year, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "published": "2026-11-20T02:40:49.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
@@ -21,10 +27,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
-      "summary": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
-      "published": "2026-11-19T12:47:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss"
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "published": "2026-11-20T02:54:40.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "published": "2026-11-20T00:13:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
@@ -33,22 +45,10 @@
       "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-      "published": "2026-11-19T21:21:43.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "William and Catherine's India tour was 'particularly special', aide says",
-      "summary": "Prince William's most senior advisor described the royal couple as \"very much a team\".",
-      "published": "2026-11-19T22:02:06.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cj04wzzy9yqro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Discrimination claims by McDonald's workers can go ahead, court says",
-      "summary": "McDonald's has said that \"ensuring a safe, respectful and inclusive working environment across our restaurants and offices remains a fundamental priority\".",
-      "published": "2026-11-19T15:09:36.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cmq8lyx41xj4o?at_medium=RSS&at_campaign=rss"
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "summary": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "published": "2026-11-20T00:08:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
