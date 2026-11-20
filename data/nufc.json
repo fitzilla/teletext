@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-19T22:31:30.858Z",
+  "fetched": "2026-11-20T12:24:12.885Z",
   "items": [
+    {
+      "title": "Howey more like a 'continental defender' - Dabizas",
+      "summary": "Former Newcastle defender Nikos Dabizas spoke to BBC Radio Newcastle about his favourite centre-back partner he played with during his time at the club.",
+      "published": "2026-11-20T11:40:52.000Z",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm5y10250egeo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "'I tried my best' - Jaissle on attempt to keep Guimaraes",
       "summary": "Newcastle United manager Matthias Jaissle says he \"tried his best\" to keep Bruno Guimaraes at the club as the Brazilian returns to St James' Park on Saturday in an Arsenal shirt.",
@@ -43,12 +49,6 @@
       "summary": "Newcastle head coach Matthias Jaissle's post-match interview as his side drew to Fulham.",
       "published": "2026-11-08T12:15:51.000Z",
       "link": "https://www.bbc.co.uk/sport/football/videos/ckpdgwqppqpzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-      "summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-      "published": "2026-11-07T19:59:37.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
