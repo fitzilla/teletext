@@ -1,18 +1,12 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-21T01:54:41.096Z",
+  "fetched": "2026-11-21T09:02:10.251Z",
   "items": [
     {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "published": "2026-11-20T17:49:48.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-      "published": "2026-11-20T16:41:52.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "published": "2026-11-21T06:00:09.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -21,34 +15,40 @@
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Man guilty of murdering woman he groomed on fetish site",
-      "summary": "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby.",
-      "published": "2026-11-20T18:17:56.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss"
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "published": "2026-11-21T08:10:25.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "published": "2026-11-20T16:54:29.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "published": "2026-11-21T04:34:00.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-      "published": "2026-11-20T15:14:01.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "published": "2026-11-21T07:31:05.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-      "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
-      "published": "2026-11-21T00:02:09.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss"
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "published": "2026-11-20T20:54:12.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-      "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
-      "published": "2026-11-20T16:39:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
+      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+      "summary": "Speculation is rife as to who will play the new 007's leading lady, with commentators saying she will need a \"very strong identity\".",
+      "published": "2026-11-21T00:03:16.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Phoebe Bridgers banned phones at her gigs, so fans are using art to remember them",
+      "summary": "The American singer has brought in a no-phone policy for the shows, inspiring fans to explore their artistic talent.",
+      "published": "2026-11-21T00:08:19.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq7821d0pv49o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
