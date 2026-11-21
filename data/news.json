@@ -1,6 +1,6 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-20T20:36:58.151Z",
+  "fetched": "2026-11-21T01:54:41.096Z",
   "items": [
     {
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -15,16 +15,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "published": "2026-11-20T16:54:29.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "summary": "What we know about the latest Russian missile strikes on Ukraine.",
-      "published": "2026-11-20T15:14:01.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "published": "2026-11-20T22:42:47.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Man guilty of murdering woman he groomed on fetish site",
@@ -33,22 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "published": "2026-11-20T20:00:53.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+      "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "published": "2026-11-20T16:54:29.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "published": "2026-11-20T15:14:01.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+      "summary": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+      "published": "2026-11-21T00:02:09.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
       "summary": "A judge called the anti-migrant activist a “publicity seeker” who disrupted the work of rescue crews.",
       "published": "2026-11-20T16:39:49.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Gérard Depardieu and French author investigated over sexual allegations",
-      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
-      "published": "2026-11-20T19:45:20.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
