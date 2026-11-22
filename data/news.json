@@ -1,12 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-22T17:16:19.621Z",
+  "fetched": "2026-11-22T22:38:53.134Z",
   "items": [
     {
-      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-      "summary": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
-      "published": "2026-11-22T11:50:20.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "published": "2026-11-22T18:17:59.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "published": "2026-11-22T18:57:24.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
@@ -17,8 +23,14 @@
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-      "published": "2026-11-22T17:12:01.000Z",
+      "published": "2026-11-22T20:28:09.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "published": "2026-11-22T22:37:43.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
@@ -37,18 +49,6 @@
       "summary": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
       "published": "2026-11-22T13:46:00.000Z",
       "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "How a teen gamer and his mother helped rescue a missing girl",
-      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
-      "published": "2026-11-22T00:09:58.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "published": "2026-11-22T11:25:14.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
