@@ -1,12 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-22T09:20:53.609Z",
+  "fetched": "2026-11-22T17:16:19.621Z",
   "items": [
     {
-      "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
-      "summary": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
-      "published": "2026-11-22T06:01:49.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss"
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "summary": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+      "published": "2026-11-22T11:50:20.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+      "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "published": "2026-11-22T13:50:21.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "published": "2026-11-22T17:12:01.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+      "summary": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
+      "published": "2026-11-22T14:19:06.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Russell Brand's wife says she'll honour prison rules after message row",
+      "summary": "The wife of the disgraced comedian says she will stick to the \"parameters\", after reading out a message from her inmate husband.",
+      "published": "2026-11-22T16:51:57.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "BBC apologises after noise disruption during Strictly",
+      "summary": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
+      "published": "2026-11-22T13:46:00.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "How a teen gamer and his mother helped rescue a missing girl",
@@ -15,40 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
-      "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
-      "published": "2026-11-22T06:27:06.000Z",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-      "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
-      "published": "2026-11-21T12:00:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-      "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place.",
-      "published": "2026-11-22T04:39:13.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "published": "2026-11-22T00:04:07.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The real people finding their work copied and stolen by AI characters",
-      "summary": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
-      "published": "2026-11-22T05:00:38.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-      "summary": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably.",
-      "published": "2026-11-22T00:01:27.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss"
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "published": "2026-11-22T11:25:14.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
