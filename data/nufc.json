@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-22T01:56:46.131Z",
+  "fetched": "2026-11-24T01:07:26.525Z",
   "items": [
+    {
+      "title": "Cities bid to host Women's World Cup matches",
+      "summary": "Newcastle and Sunderland are among the clubs hoping to stage matches at the 2035 Women's World Cup.",
+      "published": "2026-11-23T18:09:41.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck792eld73vvo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
       "summary": "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too.",
@@ -43,12 +49,6 @@
       "summary": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
       "published": "2026-11-09T12:06:19.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Alvaro Arbeloa post-match interview - Fulham v Newcastle",
-      "summary": "Fulham head coach Alvaro Arbeloa's post-match interview after his side drew to Newcastle.",
-      "published": "2026-11-08T12:22:03.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c8y56xy2qqwqo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
