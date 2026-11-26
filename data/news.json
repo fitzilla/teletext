@@ -1,36 +1,42 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-25T23:26:43.722Z",
+  "fetched": "2026-11-26T05:17:41.469Z",
   "items": [
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
-      "published": "2026-11-25T21:31:10.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+      "title": "UK government set to publish new treaties agreed with EU",
+      "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "published": "2026-11-26T02:13:00.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why has Poundland collapsed and what happens next?",
-      "summary": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
-      "published": "2026-11-25T16:24:30.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss"
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "published": "2026-11-26T05:00:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US announces new tariff proposals on EU, China, and other trade partners",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "published": "2026-11-25T16:21:34.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+      "published": "2026-11-26T05:00:27.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
-      "summary": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'.",
-      "published": "2026-11-25T15:42:10.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss"
+      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+      "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+      "published": "2026-11-26T00:08:07.000Z",
+      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "published": "2026-11-25T22:18:06.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+      "title": "BBC launches partnership with Met Office for weather coverage",
+      "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
+      "published": "2026-11-26T00:12:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Stalking law simplified to become one offence",
+      "summary": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+      "published": "2026-11-26T00:02:50.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Duran Duran guitarist Andy Taylor dies aged 65",
@@ -39,16 +45,10 @@
       "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "published": "2026-11-25T17:30:16.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-      "summary": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year.",
-      "published": "2026-11-25T17:48:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss"
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "published": "2026-11-26T00:07:51.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
