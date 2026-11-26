@@ -1,12 +1,18 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-26T05:17:41.469Z",
+  "fetched": "2026-11-26T15:33:05.186Z",
   "items": [
     {
-      "title": "UK government set to publish new treaties agreed with EU",
-      "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
-      "published": "2026-11-26T02:13:00.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+      "title": "How the train attack unfolded - carriage by carriage",
+      "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
+      "published": "2026-11-26T15:25:57.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
+      "published": "2026-11-26T14:55:16.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
@@ -21,10 +27,10 @@
       "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-      "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
-      "published": "2026-11-26T00:08:07.000Z",
-      "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss"
+      "title": "Burnham joined by former PMs at Ann Widdecombe service",
+      "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
+      "published": "2026-11-26T15:00:03.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "BBC launches partnership with Met Office for weather coverage",
@@ -33,22 +39,16 @@
       "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stalking law simplified to become one offence",
-      "summary": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
-      "published": "2026-11-26T00:02:50.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss"
+      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
+      "summary": "It comes after reports that reservists have received letters telling them to prepare to be called up for war.",
+      "published": "2026-11-26T13:24:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
-      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
-      "published": "2026-11-25T22:19:38.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "published": "2026-11-26T00:07:51.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+      "title": "Tommy Robinson charged with failing to give phone Pin code to police",
+      "summary": "Robinson, whose real name is Stephen Yaxley-Lennon, is due to appear at Westminster Magistrates' Court on 14 December.",
+      "published": "2026-11-26T14:53:37.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwly4v7nvxl5o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
