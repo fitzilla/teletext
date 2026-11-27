@@ -1,54 +1,54 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-27T08:53:36.327Z",
+  "fetched": "2026-11-27T18:37:39.313Z",
   "items": [
+    {
+      "title": "Watch: What has happened to DWP online services?",
+      "summary": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+      "published": "2026-11-27T17:17:11.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "published": "2026-11-26T22:49:27.000Z",
+      "published": "2026-11-27T18:00:40.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: Zelensky on Trump and Putin",
-      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-      "published": "2026-11-26T22:06:20.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss"
+      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "published": "2026-11-27T15:18:51.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped train attacker",
+      "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
+      "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" towards the end of Don Toliver's gig.",
+      "published": "2026-11-27T16:40:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
       "summary": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
       "published": "2026-11-27T07:53:24.000Z",
       "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Department for Work and Pensions takes some services offline after 'cyber incident'",
-      "summary": "The Department for Work and Pensions says some of its services have been take offline as a precaution.",
-      "published": "2026-11-27T08:46:28.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
-      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
-      "published": "2026-11-27T00:48:11.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK to pay 'participation' fee to deliver EU deals",
-      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-      "published": "2026-11-26T23:17:12.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "published": "2026-11-27T15:15:19.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
       "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-      "published": "2026-11-27T07:40:25.000Z",
+      "published": "2026-11-27T09:57:37.000Z",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Roofs torn off and streets under water as severe weather hits US on Thanksgiving",
-      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "published": "2026-11-26T19:26:16.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+      "title": "Watch: Catherine joins cancer support group in new documentary",
+      "summary": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.",
+      "published": "2026-11-27T12:11:22.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

@@ -1,7 +1,13 @@
 {
   "source": "BBC Sport",
-  "fetched": "2026-11-24T01:07:26.525Z",
+  "fetched": "2026-11-27T18:37:39.534Z",
   "items": [
+    {
+      "title": "Botman banned from driving for using phone at wheel",
+      "summary": "The Newcastle United defender was given a six-month ban at Newcastle Magistrates' Court.",
+      "published": "2026-11-27T10:34:09.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Cities bid to host Women's World Cup matches",
       "summary": "Newcastle and Sunderland are among the clubs hoping to stage matches at the 2035 Women's World Cup.",
@@ -43,12 +49,6 @@
       "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
       "published": "2026-11-09T14:34:19.000Z",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Burn replaces injured Guehi in England squad",
-      "summary": "Newcastle's Dan Burn is added to the England squad to play Croatia and Spain in the Nations League this week after Marc Guehi pulls out with a hip injury.",
-      "published": "2026-11-09T12:06:19.000Z",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
