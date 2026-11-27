@@ -1,12 +1,24 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-26T15:33:05.186Z",
+  "fetched": "2026-11-27T00:13:20.553Z",
   "items": [
     {
-      "title": "How the train attack unfolded - carriage by carriage",
-      "summary": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened.",
-      "published": "2026-11-26T15:25:57.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss"
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "published": "2026-11-26T22:49:27.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+      "summary": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+      "published": "2026-11-26T19:00:33.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+      "summary": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
+      "published": "2026-11-26T15:38:38.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
@@ -15,40 +27,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-      "published": "2026-11-26T05:00:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+      "title": "Drug rape husband says wife 'would have been terrified', court hears",
+      "summary": "The husband has told a jury that his wife \"would never agree to do any of this\".",
+      "published": "2026-11-26T18:21:59.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
-      "published": "2026-11-26T05:00:27.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss"
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "published": "2026-11-26T23:03:16.000Z",
+      "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Burnham joined by former PMs at Ann Widdecombe service",
-      "summary": "About 600 guests are attending including Andy Burnham, David Cameron, Liz Truss and Boris Johnson.",
-      "published": "2026-11-26T15:00:03.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss"
+      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
+      "published": "2026-11-26T22:06:24.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "BBC launches partnership with Met Office for weather coverage",
-      "summary": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences.",
-      "published": "2026-11-26T00:12:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
-      "summary": "It comes after reports that reservists have received letters telling them to prepare to be called up for war.",
-      "published": "2026-11-26T13:24:22.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tommy Robinson charged with failing to give phone Pin code to police",
-      "summary": "Robinson, whose real name is Stephen Yaxley-Lennon, is due to appear at Westminster Magistrates' Court on 14 December.",
-      "published": "2026-11-26T14:53:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwly4v7nvxl5o?at_medium=RSS&at_campaign=rss"
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "published": "2026-11-26T23:17:12.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
