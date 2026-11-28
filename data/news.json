@@ -1,7 +1,13 @@
 {
   "source": "BBC News",
-  "fetched": "2026-11-27T18:37:39.313Z",
+  "fetched": "2026-11-28T01:45:12.414Z",
   "items": [
+    {
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+      "published": "2026-11-27T20:42:44.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+    },
     {
       "title": "Watch: What has happened to DWP online services?",
       "summary": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
@@ -9,46 +15,40 @@
       "link": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "published": "2026-11-27T18:00:40.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+      "published": "2026-11-27T22:03:22.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "published": "2026-11-27T21:55:53.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+      "summary": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+      "published": "2026-11-27T17:47:14.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
       "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "published": "2026-11-27T15:18:51.000Z",
+      "published": "2026-11-27T18:42:50.000Z",
       "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
-      "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" towards the end of Don Toliver's gig.",
-      "published": "2026-11-27T16:40:22.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss"
+      "title": "Charity founded in Captain Tom's name bids to be struck off",
+      "summary": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
+      "published": "2026-11-27T21:26:30.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-      "summary": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
-      "published": "2026-11-27T07:53:24.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
-      "published": "2026-11-27T15:15:19.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-      "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
-      "published": "2026-11-27T09:57:37.000Z",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Watch: Catherine joins cancer support group in new documentary",
-      "summary": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.",
-      "published": "2026-11-27T12:11:22.000Z",
-      "link": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss"
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "published": "2026-11-27T19:03:18.000Z",
+      "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss"
     }
   ]
 }
